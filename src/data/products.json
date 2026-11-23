@@ -1,0 +1,5051 @@
+[
+  {
+    "id": 1731,
+    "slug": "acople-elite-rap-col-br-5pcs",
+    "sku": null,
+    "name": "Acople ELITE Rap/Col..Br.5pcs",
+    "brand": "Elite",
+    "category": "maquinaria",
+    "description": "Acoples rápidos para compresores 5 pcs",
+    "image": "/products/acople-elite-rap-col-br-5pcs.webp",
+    "price": 2.58,
+    "priceMax": null,
+    "quoteOnly": false,
+    "variants": []
+  },
+  {
+    "id": 1231,
+    "slug": "acoples-y-sellos",
+    "sku": null,
+    "name": "Acoples y Sellos",
+    "brand": null,
+    "category": "agricola-jardin",
+    "description": "Acoples y Sellos, repuesto para fumigadoras manuales",
+    "image": "/products/acoples-y-sellos.webp",
+    "price": 2.84,
+    "priceMax": null,
+    "quoteOnly": false,
+    "variants": []
+  },
+  {
+    "id": 1361,
+    "slug": "alicate-elite-profesional",
+    "sku": null,
+    "name": "Alicate ELITE Profesional",
+    "brand": "Elite",
+    "category": "herramientas",
+    "description": "Pinza robusta con mandíbulas estriadas para sujeción y una sección de corte. Sirve para tornear, desenroscar, apretar, aflojar, cortar alambre, cables y tubos de metal, entre otras tareas. Mango cubierto con vinil antideslizante.",
+    "image": "/products/alicate-elite-profesional.webp",
+    "price": 1.97,
+    "priceMax": 4.07,
+    "quoteOnly": false,
+    "variants": [
+      {
+        "id": 1572,
+        "label": "4.5″",
+        "sku": null,
+        "price": 1.97
+      },
+      {
+        "id": 1571,
+        "label": "6″",
+        "sku": null,
+        "price": 3.16
+      },
+      {
+        "id": 1362,
+        "label": "7″",
+        "sku": null,
+        "price": 3.74
+      },
+      {
+        "id": 1363,
+        "label": "8″",
+        "sku": null,
+        "price": 4.07
+      }
+    ]
+  },
+  {
+    "id": 2247,
+    "slug": "amarras-elite-plasticas-4-8-x-500-negro",
+    "sku": "2067",
+    "name": "Amarras Elite Plasticas 4.8 x 500 Negro (100u)",
+    "brand": "Elite",
+    "category": "ferreteria",
+    "description": null,
+    "image": "/products/amarras-elite-plasticas-4-8-x-500-negro.webp",
+    "price": null,
+    "priceMax": null,
+    "quoteOnly": true,
+    "variants": []
+  },
+  {
+    "id": 1675,
+    "slug": "amarras-plasticas-elite",
+    "sku": null,
+    "name": "Amarras Plásticas ELITE",
+    "brand": "Elite",
+    "category": "ferreteria",
+    "description": "Su uso especial es para sujetar, fijar o agrupar cables, sin embargo también es usado como precinto para asegurar cajas o recintos, además de múltiples usos improvisados debido a su poder de sujeción y apriete, lo que las hace muy versátiles en diversas situaciones, la presentación es de varias medidas.",
+    "image": "/products/amarras-plasticas-elite.webp",
+    "price": 0.48,
+    "priceMax": 8.71,
+    "quoteOnly": false,
+    "variants": [
+      {
+        "id": 1676,
+        "label": "Blanco · 2.5 x 100",
+        "sku": null,
+        "price": 0.48
+      },
+      {
+        "id": 1678,
+        "label": "Blanco · 2.5 x 150",
+        "sku": null,
+        "price": 0.77
+      },
+      {
+        "id": 1680,
+        "label": "Blanco · 2.5 x 200",
+        "sku": null,
+        "price": 0.97
+      },
+      {
+        "id": 1682,
+        "label": "Blanco · 4.8 x 250",
+        "sku": null,
+        "price": 2.58
+      },
+      {
+        "id": 1846,
+        "label": "Blanco · 7.6 x 350",
+        "sku": null,
+        "price": 5.96
+      },
+      {
+        "id": 1677,
+        "label": "Negro · 2.5 x 100",
+        "sku": null,
+        "price": 0.48
+      },
+      {
+        "id": 1679,
+        "label": "Negro · 2.5 x 150",
+        "sku": null,
+        "price": 0.77
+      },
+      {
+        "id": 1681,
+        "label": "Negro · 2.5 x 200",
+        "sku": null,
+        "price": 0.97
+      },
+      {
+        "id": 1683,
+        "label": "Negro · 4.8 x 250",
+        "sku": null,
+        "price": 2.58
+      },
+      {
+        "id": 1684,
+        "label": "Negro · 4.8 x 300",
+        "sku": null,
+        "price": 3.16
+      },
+      {
+        "id": 1685,
+        "label": "Negro · 7.6 x 500",
+        "sku": null,
+        "price": 8.71
+      }
+    ]
+  },
+  {
+    "id": 1530,
+    "slug": "arco-sierra-elite",
+    "sku": null,
+    "name": "Arco Sierra ELITE",
+    "brand": "Elite",
+    "category": "herramientas",
+    "description": "Arco Sierra talar con diente templado por inducción que proporciona mayor rendimiento. Apto para construcción, jardinería, agricultura y trabajos forestales. Tubo de acero pintado, para evitar la oxidación y deterioro de la herramienta.",
+    "image": "/products/arco-sierra-elite.webp",
+    "price": 4.4,
+    "priceMax": 4.59,
+    "quoteOnly": false,
+    "variants": [
+      {
+        "id": 1531,
+        "label": "21″",
+        "sku": null,
+        "price": 4.4
+      },
+      {
+        "id": 1532,
+        "label": "24″",
+        "sku": null,
+        "price": 4.59
+      }
+    ]
+  },
+  {
+    "id": 1529,
+    "slug": "arco-sierra-plegable-elite",
+    "sku": null,
+    "name": "Arco Sierra Plegable ELITE",
+    "brand": "Elite",
+    "category": "herramientas",
+    "description": "La calidad y la facilidad. Marco para Segueta de 12″»perfecto para los trabajos domésticos o laborales. Se caracteriza por su delgada y fuerte estructura. En uno de sus extremos se ubica el mango, que permite el movimiento de la hoja para cortar los objetos. Este es el mando principal de la herramienta pues a través de esta se logran cortes estables, precisos y seguros. Su agarre y mango ergonómico facilita los cortes, además ubica la hoja en la parte baja y allí es asegurada a través de una tuerca que impide se corra o caiga y pueda causar accidentes. Este marco evitará que te cortes o que al manipularlo puedas causarte heridas, pues la función principal es darte seguridad, calidad y precisión.",
+    "image": "/products/arco-sierra-plegable-elite.webp",
+    "price": 5.04,
+    "priceMax": null,
+    "quoteOnly": false,
+    "variants": []
+  },
+  {
+    "id": 1528,
+    "slug": "arco-sierra-tubular-elite-10-12",
+    "sku": null,
+    "name": "Arco Sierra Tubular ELITE 10-12″",
+    "brand": "Elite",
+    "category": "herramientas",
+    "description": "Puede ajustarse para trabajar con hojas de segueta de 10′ y 12′. Mango ergonómico con textura patentada para mayor comodidad, mejor control y agarre. Eje giratorio permite posicionar la segueta a 90grados para mayor versatilidad. Tensión máxima 104lb(47kg).",
+    "image": "/products/arco-sierra-tubular-elite-10-12.webp",
+    "price": 3.94,
+    "priceMax": null,
+    "quoteOnly": false,
+    "variants": []
+  },
+  {
+    "id": 1672,
+    "slug": "aspersor-elite",
+    "sku": null,
+    "name": "Aspersor ELITE",
+    "brand": "Elite",
+    "category": "agricola-jardin",
+    "description": "Aspersor de 1/2 herramienta de jardín que dispersan el agua pulverizada a través de una o más salidas llamadas boquillas, distribuyendo de forma giratoria el agua sobre una superficie.",
+    "image": "/products/aspersor-elite.webp",
+    "price": 1.31,
+    "priceMax": null,
+    "quoteOnly": false,
+    "variants": []
+  },
+  {
+    "id": 1381,
+    "slug": "bailejo-elite",
+    "sku": null,
+    "name": "Bailejo ELITE",
+    "brand": "Elite",
+    "category": "herramientas",
+    "description": "Mango de madera barnizado, ligeros y de tacto agradable. Perfecta unión mango y espiga mediante resina para garantizar la seguridad del usuario (resistencia a tracción mayor de 0,6 Tn). Barniz para evitar la oxidación de la herramienta. Para preparar masa de cemento y mortero, y aplicarla sobre soportes de obra.",
+    "image": "/products/bailejo-elite.webp",
+    "price": 2.4,
+    "priceMax": 3.26,
+    "quoteOnly": false,
+    "variants": [
+      {
+        "id": 1717,
+        "label": "6″",
+        "sku": null,
+        "price": 2.4
+      },
+      {
+        "id": 1383,
+        "label": "7″",
+        "sku": null,
+        "price": 2.5
+      },
+      {
+        "id": 1384,
+        "label": "8″",
+        "sku": null,
+        "price": 2.68
+      },
+      {
+        "id": 1385,
+        "label": "9″",
+        "sku": null,
+        "price": 2.86
+      },
+      {
+        "id": 1386,
+        "label": "10″",
+        "sku": null,
+        "price": 3.26
+      }
+    ]
+  },
+  {
+    "id": 1549,
+    "slug": "bandeja-elite-para-pintura-9",
+    "sku": null,
+    "name": "Bandeja ELITE para Pintura 9″",
+    "brand": "Elite",
+    "category": "pintura",
+    "description": "Ayuda a facilitar el trabajo de pintura por su modelo inclinado y repujado con el fin de escurrir y utilizar la cantidad adecuada de pintura, su material de plástico asegura su durabilidad y comodidad",
+    "image": "/products/bandeja-elite-para-pintura-9.webp",
+    "price": 1.99,
+    "priceMax": null,
+    "quoteOnly": false,
+    "variants": []
+  },
+  {
+    "id": 2047,
+    "slug": "bellota-machete-706a-24-ppr",
+    "sku": null,
+    "name": "Bellota Machete 706A-24 PPR",
+    "brand": "Bellota",
+    "category": "agricola-jardin",
+    "description": "Corte de maleza y pequeños troncos. Mantenimiento de jardines y cultivos.",
+    "image": "/products/bellota-machete-706a-24-ppr.webp",
+    "price": 3.96,
+    "priceMax": null,
+    "quoteOnly": false,
+    "variants": []
+  },
+  {
+    "id": 2257,
+    "slug": "broca-escalonada-4-12-ml",
+    "sku": "2211",
+    "name": "Broca Escalonada 4 -12 ML",
+    "brand": null,
+    "category": "herramientas",
+    "description": null,
+    "image": "/products/broca-escalonada-4-12-ml.webp",
+    "price": null,
+    "priceMax": null,
+    "quoteOnly": true,
+    "variants": []
+  },
+  {
+    "id": 2258,
+    "slug": "broca-escalonada-4-20-ml",
+    "sku": "2212",
+    "name": "Broca Escalonada 4 -20 ML",
+    "brand": null,
+    "category": "herramientas",
+    "description": null,
+    "image": "/products/broca-escalonada-4-20-ml.webp",
+    "price": null,
+    "priceMax": null,
+    "quoteOnly": true,
+    "variants": []
+  },
+  {
+    "id": 2259,
+    "slug": "broca-escalonada-4-32-ml",
+    "sku": "2213",
+    "name": "Broca Escalonada 4 -32 ML",
+    "brand": null,
+    "category": "herramientas",
+    "description": null,
+    "image": "/products/broca-escalonada-4-32-ml.webp",
+    "price": null,
+    "priceMax": null,
+    "quoteOnly": true,
+    "variants": []
+  },
+  {
+    "id": 1658,
+    "slug": "broca-p-cemento-alemana-elite",
+    "sku": null,
+    "name": "Broca P/Cemento Alemana ELITE",
+    "brand": "Elite",
+    "category": "herramientas",
+    "description": "Las brocas de concreto es utilizada para taladrar las paredes y material haciendo un contacto de firme en la superficie, es usada únicamente con taladros de percusión.",
+    "image": "/products/broca-p-cemento-alemana-elite.webp",
+    "price": 0.3,
+    "priceMax": 3.55,
+    "quoteOnly": false,
+    "variants": [
+      {
+        "id": 1686,
+        "label": "1/2 x 16",
+        "sku": null,
+        "price": 3.55
+      },
+      {
+        "id": 1659,
+        "label": "1/4",
+        "sku": null,
+        "price": 0.61
+      },
+      {
+        "id": 1668,
+        "label": "1/8",
+        "sku": null,
+        "price": 0.3
+      },
+      {
+        "id": 1670,
+        "label": "3/8",
+        "sku": null,
+        "price": 1.05
+      },
+      {
+        "id": 1687,
+        "label": "3/8 x 16",
+        "sku": null,
+        "price": 2.64
+      },
+      {
+        "id": 1669,
+        "label": "3/16",
+        "sku": null,
+        "price": 0.41
+      },
+      {
+        "id": 1671,
+        "label": "5/16",
+        "sku": null,
+        "price": 0.76
+      }
+    ]
+  },
+  {
+    "id": 1566,
+    "slug": "broca-plana-elite",
+    "sku": null,
+    "name": "Broca Plana ELITE",
+    "brand": "Elite",
+    "category": "herramientas",
+    "description": "Broca Plana marca ELITE su presentación en pulgadas elaborada en acero inoxidable, su uso para abrir de manera rápida y efectiva agujeros de varios diámetros con ayuda del taladro, cuenta con una punta afilada que sirve de guía y una paleta que hace el agujero exacto.",
+    "image": "/products/broca-plana-elite.webp",
+    "price": 1.06,
+    "priceMax": 2.61,
+    "quoteOnly": false,
+    "variants": [
+      {
+        "id": 1718,
+        "label": "1-1/2",
+        "sku": null,
+        "price": 2.61
+      },
+      {
+        "id": 1719,
+        "label": "1-1/4",
+        "sku": null,
+        "price": 2.07
+      },
+      {
+        "id": 1568,
+        "label": "1/2″",
+        "sku": null,
+        "price": 1.06
+      },
+      {
+        "id": 1567,
+        "label": "1″",
+        "sku": null,
+        "price": 1.54
+      },
+      {
+        "id": 1569,
+        "label": "3/4″",
+        "sku": null,
+        "price": 1.24
+      },
+      {
+        "id": 1570,
+        "label": "7/8″",
+        "sku": null,
+        "price": 1.45
+      }
+    ]
+  },
+  {
+    "id": 1648,
+    "slug": "broca-titanio-elite",
+    "sku": null,
+    "name": "Broca Titanio ELITE",
+    "brand": "Elite",
+    "category": "herramientas",
+    "description": "Broca ideal para metales duros por su recubrimiento de titanio, aguanta el desgaste y mientras su uso sea mas frecuente mas resistente se comporta",
+    "image": "/products/broca-titanio-elite.webp",
+    "price": 0.18,
+    "priceMax": 3.74,
+    "quoteOnly": false,
+    "variants": [
+      {
+        "id": 1650,
+        "label": "1/2",
+        "sku": null,
+        "price": 3.74
+      },
+      {
+        "id": 1651,
+        "label": "1/4",
+        "sku": null,
+        "price": 0.94
+      },
+      {
+        "id": 1652,
+        "label": "1/8",
+        "sku": null,
+        "price": 0.32
+      },
+      {
+        "id": 1649,
+        "label": "1/16",
+        "sku": null,
+        "price": 0.18
+      },
+      {
+        "id": 1848,
+        "label": "1/32",
+        "sku": null,
+        "price": 0.18
+      },
+      {
+        "id": 1655,
+        "label": "3/8",
+        "sku": null,
+        "price": 2.13
+      },
+      {
+        "id": 1653,
+        "label": "3/16",
+        "sku": null,
+        "price": 0.53
+      },
+      {
+        "id": 1654,
+        "label": "3/32",
+        "sku": null,
+        "price": 0.23
+      },
+      {
+        "id": 1656,
+        "label": "5/16",
+        "sku": null,
+        "price": 1.51
+      },
+      {
+        "id": 1657,
+        "label": "5/32",
+        "sku": null,
+        "price": 0.45
+      },
+      {
+        "id": 1850,
+        "label": "9/64",
+        "sku": null,
+        "price": 0.37
+      },
+      {
+        "id": 1849,
+        "label": "11/64",
+        "sku": null,
+        "price": 0.52
+      }
+    ]
+  },
+  {
+    "id": 1545,
+    "slug": "brocha-elite",
+    "sku": null,
+    "name": "Brocha ELITE",
+    "brand": "Elite",
+    "category": "pintura",
+    "description": "Herramienta manual utilizada para pintar, compuesta de cerdas naturales (pelo de animal) diferentes medidas, producto de alta calidad por su fuerte resistencia y durabilidad.",
+    "image": "/products/brocha-elite.webp",
+    "price": 0.25,
+    "priceMax": 3.35,
+    "quoteOnly": false,
+    "variants": [
+      {
+        "id": 1552,
+        "label": "1.5″",
+        "sku": null,
+        "price": 0.45
+      },
+      {
+        "id": 1546,
+        "label": "1/2″",
+        "sku": null,
+        "price": 0.25
+      },
+      {
+        "id": 1551,
+        "label": "1″",
+        "sku": null,
+        "price": 0.34
+      },
+      {
+        "id": 1554,
+        "label": "2.5″",
+        "sku": null,
+        "price": 0.81
+      },
+      {
+        "id": 1553,
+        "label": "2″",
+        "sku": null,
+        "price": 0.56
+      },
+      {
+        "id": 1559,
+        "label": "3/4″",
+        "sku": null,
+        "price": 0.31
+      },
+      {
+        "id": 1555,
+        "label": "3″",
+        "sku": null,
+        "price": 0.95
+      },
+      {
+        "id": 1556,
+        "label": "4″",
+        "sku": null,
+        "price": 1.33
+      },
+      {
+        "id": 1557,
+        "label": "5″",
+        "sku": null,
+        "price": 2.62
+      },
+      {
+        "id": 1558,
+        "label": "6″",
+        "sku": null,
+        "price": 3.35
+      }
+    ]
+  },
+  {
+    "id": 1632,
+    "slug": "cable-de-bateria-elite-500-amp",
+    "sku": null,
+    "name": "Cable de Bateria ELITE 500 Amp.",
+    "brand": "Elite",
+    "category": "automotriz",
+    "description": "Cables para ser utilizados en la conexión entre las baterías de vehículos automotrices y los sistemas de encendido, buena resistencia y durabilidad.",
+    "image": "/products/cable-de-bateria-elite-500-amp.webp",
+    "price": 6.5,
+    "priceMax": null,
+    "quoteOnly": false,
+    "variants": []
+  },
+  {
+    "id": 1975,
+    "slug": "candado-elite-de-barril-bronce",
+    "sku": null,
+    "name": "Candado Elite de Barril Bronce",
+    "brand": "Elite",
+    "category": "seguridad",
+    "description": "Candados de bronce puro, de alta resistencia, incluyen tres llaves de repuesto.",
+    "image": "/products/candado-elite-de-barril-bronce.webp",
+    "price": 4.03,
+    "priceMax": 9.31,
+    "quoteOnly": false,
+    "variants": [
+      {
+        "id": 1979,
+        "label": "30 mm",
+        "sku": null,
+        "price": 4.03
+      },
+      {
+        "id": 1978,
+        "label": "40 mm",
+        "sku": null,
+        "price": 5.34
+      },
+      {
+        "id": 1977,
+        "label": "50 mm",
+        "sku": null,
+        "price": 8.54
+      },
+      {
+        "id": 1976,
+        "label": "60 mm",
+        "sku": null,
+        "price": 9.31
+      }
+    ]
+  },
+  {
+    "id": 1633,
+    "slug": "careta-protectora-con-malla-elite",
+    "sku": null,
+    "name": "Careta Protectora con Malla ELITE",
+    "brand": "Elite",
+    "category": "seguridad",
+    "description": "Equipo para la protección principal de cara y ojos, con malla metálica y rachet para ajustar en la cabeza.",
+    "image": "/products/careta-protectora-con-malla-elite.webp",
+    "price": 6.07,
+    "priceMax": null,
+    "quoteOnly": false,
+    "variants": []
+  },
+  {
+    "id": 1673,
+    "slug": "careta-protectora-pvc-acril-elite",
+    "sku": null,
+    "name": "Careta Protectora PVC/ACRIL ELITE",
+    "brand": "Elite",
+    "category": "seguridad",
+    "description": "Careta acrílico PVC transparente, protege ojos y caras de chispas, salpicaduras, químicos, bioseguridad y demás sustancias que puedan afectar al usuario, adecuado para el trabajo de motosierras, desbrozadoras, bioseguridad, cabezal fabricado por polímeros de alta resistencia, sistema de racha para sujetar el contorno de la cabeza, banda frontal que cubre 50% del cabezal haciéndolo confortable, revestimiento del protector con aluminio Norma INEN 1693338202000000004P",
+    "image": "/products/careta-protectora-pvc-acril-elite.webp",
+    "price": 6.36,
+    "priceMax": null,
+    "quoteOnly": false,
+    "variants": []
+  },
+  {
+    "id": 1593,
+    "slug": "carrete-elite-3-0-mm-p-desbrozadora",
+    "sku": null,
+    "name": "Carrete ELITE 3.0 MM P/ Desbrozadora",
+    "brand": "Elite",
+    "category": "maquinaria",
+    "description": "Carrete, hilo de nylon para desbrozadora, presentación de 50 metros y 200 metros espesor de 3.0mm diseñado con material resistente para trabajos específicos, producto de calidad y garantía. Se recomienda que antes de ser usado, sumergir en agua por 24 horas para que se hidrate el cual resultara mas flexible y evitar que se deteriore.",
+    "image": "/products/carrete-elite-3-0-mm-p-desbrozadora.webp",
+    "price": 5.14,
+    "priceMax": 18.21,
+    "quoteOnly": false,
+    "variants": [
+      {
+        "id": 1788,
+        "label": "Cuadrado · 200",
+        "sku": null,
+        "price": 18.21
+      },
+      {
+        "id": 1789,
+        "label": "Redondo · 50",
+        "sku": null,
+        "price": 5.14
+      }
+    ]
+  },
+  {
+    "id": 1929,
+    "slug": "carretilla-elite",
+    "sku": null,
+    "name": "Carretilla Elite",
+    "brand": "Elite",
+    "category": "ferreteria",
+    "description": null,
+    "image": "/products/carretilla-elite.webp",
+    "price": 51.45,
+    "priceMax": null,
+    "quoteOnly": false,
+    "variants": [
+      {
+        "id": 1931,
+        "label": "Naranja reforzada neumática",
+        "sku": null,
+        "price": 51.45
+      },
+      {
+        "id": 1930,
+        "label": "Naranja tractor",
+        "sku": null,
+        "price": 51.45
+      }
+    ]
+  },
+  {
+    "id": 1634,
+    "slug": "cautin-elite",
+    "sku": null,
+    "name": "Cautin ELITE",
+    "brand": "Elite",
+    "category": "electricidad",
+    "description": "Soldador eléctrico, herramienta usada para soldar. Funciona convirtiendo la energía eléctrica en calor, que a su vez provoca la fusión del material utilizado en la soldadura.",
+    "image": "/products/cautin-elite.webp",
+    "price": 3.81,
+    "priceMax": 6.59,
+    "quoteOnly": false,
+    "variants": [
+      {
+        "id": 1635,
+        "label": "30 W",
+        "sku": null,
+        "price": 3.81
+      },
+      {
+        "id": 1851,
+        "label": "30 W c/accesorios",
+        "sku": null,
+        "price": 4.3
+      },
+      {
+        "id": 1636,
+        "label": "60 W",
+        "sku": null,
+        "price": 4.29
+      },
+      {
+        "id": 1716,
+        "label": "100 W",
+        "sku": null,
+        "price": 6.59
+      }
+    ]
+  },
+  {
+    "id": 1941,
+    "slug": "cepillos-de-acero",
+    "sku": null,
+    "name": "Cepillos de acero",
+    "brand": null,
+    "category": "ferreteria",
+    "description": "Cepillos de acero, eliminan óxido, pintura, esmalte, etc., dejando tus superficies como nuevas.",
+    "image": "/products/cepillos-de-acero.webp",
+    "price": 1.06,
+    "priceMax": 1.16,
+    "quoteOnly": false,
+    "variants": [
+      {
+        "id": 1943,
+        "label": "5 Filas",
+        "sku": null,
+        "price": 1.06
+      },
+      {
+        "id": 1942,
+        "label": "6 Filas",
+        "sku": null,
+        "price": 1.16
+      }
+    ]
+  },
+  {
+    "id": 2262,
+    "slug": "cerradura-elite-de-pomo-acero",
+    "sku": "2218",
+    "name": "Cerradura Elite de Pomo Acero",
+    "brand": "Elite",
+    "category": "seguridad",
+    "description": null,
+    "image": "/products/cerradura-elite-de-pomo-acero.webp",
+    "price": null,
+    "priceMax": null,
+    "quoteOnly": true,
+    "variants": []
+  },
+  {
+    "id": 2261,
+    "slug": "cerradura-elite-de-pomo-bronce",
+    "sku": "2217",
+    "name": "Cerradura Elite de Pomo Bronce",
+    "brand": "Elite",
+    "category": "seguridad",
+    "description": null,
+    "image": "/products/cerradura-elite-de-pomo-bronce.webp",
+    "price": null,
+    "priceMax": null,
+    "quoteOnly": true,
+    "variants": []
+  },
+  {
+    "id": 2260,
+    "slug": "cerradura-de-pomo-dorado",
+    "sku": "2216",
+    "name": "Cerradura Elite de Pomo Dorado",
+    "brand": "Elite",
+    "category": "seguridad",
+    "description": null,
+    "image": "/products/cerradura-de-pomo-dorado.webp",
+    "price": null,
+    "priceMax": null,
+    "quoteOnly": true,
+    "variants": []
+  },
+  {
+    "id": 2251,
+    "slug": "cerradura-elite-inteligente",
+    "sku": "2105",
+    "name": "Cerradura Elite Inteligente",
+    "brand": "Elite",
+    "category": "seguridad",
+    "description": null,
+    "image": "/products/cerradura-elite-inteligente.webp",
+    "price": null,
+    "priceMax": null,
+    "quoteOnly": true,
+    "variants": []
+  },
+  {
+    "id": 2253,
+    "slug": "cerradura-elite-inteligente-3d-face",
+    "sku": "2107",
+    "name": "Cerradura Elite Inteligente 3D Face",
+    "brand": "Elite",
+    "category": "seguridad",
+    "description": null,
+    "image": "/products/cerradura-elite-inteligente-3d-face.webp",
+    "price": null,
+    "priceMax": null,
+    "quoteOnly": true,
+    "variants": []
+  },
+  {
+    "id": 2252,
+    "slug": "cerradura-elite-inteligente-tuya-wifi",
+    "sku": "2106",
+    "name": "Cerradura Elite Inteligente Tuya Wifi",
+    "brand": "Elite",
+    "category": "seguridad",
+    "description": null,
+    "image": "/products/cerradura-elite-inteligente-tuya-wifi.webp",
+    "price": null,
+    "priceMax": null,
+    "quoteOnly": true,
+    "variants": []
+  },
+  {
+    "id": 1594,
+    "slug": "cerradura-travex",
+    "sku": null,
+    "name": "Cerradura TRAVEX",
+    "brand": "Travex",
+    "category": "seguridad",
+    "description": "Cerraduras TRAVEX originales para exteriores, modelos 300, 500 y 700",
+    "image": "/products/cerradura-travex.webp",
+    "price": 22.87,
+    "priceMax": 28.29,
+    "quoteOnly": false,
+    "variants": [
+      {
+        "id": 1595,
+        "label": "300",
+        "sku": null,
+        "price": 22.87
+      },
+      {
+        "id": 1596,
+        "label": "500",
+        "sku": null,
+        "price": 26.41
+      },
+      {
+        "id": 1597,
+        "label": "700",
+        "sku": null,
+        "price": 28.29
+      }
+    ]
+  },
+  {
+    "id": 1261,
+    "slug": "cincel-elite",
+    "sku": null,
+    "name": "Cincel ELITE",
+    "brand": "Elite",
+    "category": "herramientas",
+    "description": "Tamaño de la Punta 3/4 pulg. Longitud: 8, 10, 12, 14 pulg Aplicación Para Remover, Cortar o Romper Concreto, Piedra, Acero sin Tratar, Tuercas, Tornillos, Pernos Etc., Características Corte en Frío, el Ancho de la Punta Distingue la Aplicación, su presentación es en estuche",
+    "image": "/products/cincel-elite.webp",
+    "price": 2.51,
+    "priceMax": 3.91,
+    "quoteOnly": false,
+    "variants": [
+      {
+        "id": 1262,
+        "label": "3/4×8",
+        "sku": null,
+        "price": 2.51
+      },
+      {
+        "id": 1263,
+        "label": "3/4×10",
+        "sku": null,
+        "price": 2.95
+      },
+      {
+        "id": 1264,
+        "label": "3/4×12",
+        "sku": null,
+        "price": 3.52
+      },
+      {
+        "id": 1265,
+        "label": "3/4×14",
+        "sku": null,
+        "price": 3.91
+      }
+    ]
+  },
+  {
+    "id": 1302,
+    "slug": "cinta-metrica-elite",
+    "sku": null,
+    "name": "Cinta Métrica ELITE",
+    "brand": "Elite",
+    "category": "herramientas",
+    "description": "Máxima duración y resistencia, carcasas compactas y ergonómicas para mejor agarre y manejo, gran facilidad de uso, marcaje con graduación milimétrica, máxima resistencia fácil lectura, fácil fijación en diferentes superficies. Ideal para realizar trabajos de medición de larga distancia",
+    "image": "/products/cinta-metrica-elite.webp",
+    "price": 3.88,
+    "priceMax": 9.08,
+    "quoteOnly": false,
+    "variants": [
+      {
+        "id": 1525,
+        "label": "10",
+        "sku": null,
+        "price": 3.88
+      },
+      {
+        "id": 1305,
+        "label": "20",
+        "sku": null,
+        "price": 4.77
+      },
+      {
+        "id": 1304,
+        "label": "30",
+        "sku": null,
+        "price": 6.05
+      },
+      {
+        "id": 1303,
+        "label": "50",
+        "sku": null,
+        "price": 9.08
+      }
+    ]
+  },
+  {
+    "id": 1886,
+    "slug": "cinta-peligro-elite",
+    "sku": null,
+    "name": "Cinta peligro Elite",
+    "brand": "Elite",
+    "category": "seguridad",
+    "description": "Cinta de peligro amarilla de plástico para seguridad industrial de 250 mtrs",
+    "image": "/products/cinta-peligro-elite.webp",
+    "price": 4.37,
+    "priceMax": null,
+    "quoteOnly": false,
+    "variants": []
+  },
+  {
+    "id": 1637,
+    "slug": "cizalla-elite",
+    "sku": null,
+    "name": "Cizalla ELITE",
+    "brand": "Elite",
+    "category": "herramientas",
+    "description": "Cizalla ELITE tipo profesional con mango resistentes el cual ayudara a mejor manipulación, el corte para metal especialmente empleada para cortar hojalata o metales.",
+    "image": "/products/cizalla-elite.webp",
+    "price": 13.97,
+    "priceMax": 25.75,
+    "quoteOnly": false,
+    "variants": [
+      {
+        "id": 1638,
+        "label": "24",
+        "sku": null,
+        "price": 13.97
+      },
+      {
+        "id": 1639,
+        "label": "30",
+        "sku": null,
+        "price": 20.81
+      },
+      {
+        "id": 1640,
+        "label": "36",
+        "sku": null,
+        "price": 25.75
+      }
+    ]
+  },
+  {
+    "id": 1317,
+    "slug": "combo-elite",
+    "sku": null,
+    "name": "Combo ELITE",
+    "brand": "Elite",
+    "category": "herramientas",
+    "description": "Combos marca Elite, mango de fibra y madera ergonómicos",
+    "image": "/products/combo-elite.webp",
+    "price": 6.01,
+    "priceMax": 41.01,
+    "quoteOnly": false,
+    "variants": [
+      {
+        "id": 1319,
+        "label": "Fibra · 2lb",
+        "sku": null,
+        "price": 6.3
+      },
+      {
+        "id": 1320,
+        "label": "Fibra · 3lb",
+        "sku": null,
+        "price": 8.5
+      },
+      {
+        "id": 1321,
+        "label": "Fibra · 4lb",
+        "sku": null,
+        "price": 9.91
+      },
+      {
+        "id": 1325,
+        "label": "Fibra · 16lb",
+        "sku": null,
+        "price": 35.28
+      },
+      {
+        "id": 1326,
+        "label": "Fibra · 18lb",
+        "sku": null,
+        "price": 34.79
+      },
+      {
+        "id": 1339,
+        "label": "Fibra · 20lb",
+        "sku": null,
+        "price": 41.01
+      },
+      {
+        "id": 1340,
+        "label": "Madera · 2lb",
+        "sku": null,
+        "price": 6.01
+      },
+      {
+        "id": 1341,
+        "label": "Madera · 3lb",
+        "sku": null,
+        "price": 8.15
+      },
+      {
+        "id": 1342,
+        "label": "Madera · 4lb",
+        "sku": null,
+        "price": 9.89
+      },
+      {
+        "id": 1343,
+        "label": "Madera · 6lb",
+        "sku": null,
+        "price": 15.64
+      },
+      {
+        "id": 1344,
+        "label": "Madera · 8lb",
+        "sku": null,
+        "price": 20.99
+      },
+      {
+        "id": 1345,
+        "label": "Madera · 10lb",
+        "sku": null,
+        "price": 24.46
+      },
+      {
+        "id": 1346,
+        "label": "Madera · 12lb",
+        "sku": null,
+        "price": 27.52
+      }
+    ]
+  },
+  {
+    "id": 1364,
+    "slug": "cortafrio-profesional-elite",
+    "sku": null,
+    "name": "Cortafrío Profesional ELITE",
+    "brand": "Elite",
+    "category": "herramientas",
+    "description": "Para cortar cables y alambres. También podrá cortar las patillas de componentes del circuito impreso una vez soldados y para apretar y sujetar fuertemente. Pueden usarse de forma para un corte lateral o diagonal.",
+    "image": "/products/cortafrio-profesional-elite.webp",
+    "price": 1.97,
+    "priceMax": 3.6,
+    "quoteOnly": false,
+    "variants": [
+      {
+        "id": 1641,
+        "label": "4.5″",
+        "sku": null,
+        "price": 1.97
+      },
+      {
+        "id": 1365,
+        "label": "7″",
+        "sku": null,
+        "price": 3.6
+      },
+      {
+        "id": 1366,
+        "label": "8″",
+        "sku": null,
+        "price": 3.13
+      }
+    ]
+  },
+  {
+    "id": 2037,
+    "slug": "cuchilla-corbatin-bellota-352420p-pulida",
+    "sku": null,
+    "name": "Cuchilla Corbatín Bellota 352420P Pulida",
+    "brand": "Bellota",
+    "category": "maquinaria",
+    "description": "Resistencia a la fricción. Maniobrabilidad más segura. Hoja afilada lista para usar. Referencias disponibles para todas las guadañadoras del mercado.",
+    "image": "/products/cuchilla-corbatin-bellota-352420p-pulida.webp",
+    "price": 2.95,
+    "priceMax": null,
+    "quoteOnly": false,
+    "variants": []
+  },
+  {
+    "id": 2036,
+    "slug": "cuchilla-corbatin-bellota-352425-db4200",
+    "sku": null,
+    "name": "Cuchilla Corbatín Bellota 352425 – DB4200",
+    "brand": "Bellota",
+    "category": "maquinaria",
+    "description": "Resistencia a la fricción. Maniobrabilidad más segura. Hoja afilada lista para usar. Referencias disponibles para todas las guadañadoras del mercado.",
+    "image": "/products/cuchilla-corbatin-bellota-352425-db4200.webp",
+    "price": 1.98,
+    "priceMax": null,
+    "quoteOnly": false,
+    "variants": []
+  },
+  {
+    "id": 2038,
+    "slug": "cuchilla-corbatin-bellota-352425p-pulida",
+    "sku": null,
+    "name": "Cuchilla Corbatin Bellota 352425P Pulida",
+    "brand": "Bellota",
+    "category": "maquinaria",
+    "description": "Utilizada para cortar maleza en cualquier terreno. Cuenta con un bisel pre-afilado, listo para usar. Diámetro del ojo o agujero 20 mm.",
+    "image": "/products/cuchilla-corbatin-bellota-352425p-pulida.webp",
+    "price": 2.95,
+    "priceMax": null,
+    "quoteOnly": false,
+    "variants": []
+  },
+  {
+    "id": 2243,
+    "slug": "cuchilla-g-preafilada-pulida-350-1plg-2",
+    "sku": "1988",
+    "name": "Cuchilla G.Preafilada Pulida 350mm x 1plg x 2.0mm",
+    "brand": null,
+    "category": "maquinaria",
+    "description": null,
+    "image": "/products/cuchilla-g-preafilada-pulida-350-1plg-2.webp",
+    "price": null,
+    "priceMax": null,
+    "quoteOnly": true,
+    "variants": []
+  },
+  {
+    "id": 2244,
+    "slug": "cuchilla-g-preafilada-pulida-350mm-20mm-2-0mm",
+    "sku": "1989",
+    "name": "Cuchilla G.Preafilada Pulida 350mm x 20mm x 2.0mm",
+    "brand": null,
+    "category": "maquinaria",
+    "description": null,
+    "image": "/products/cuchilla-g-preafilada-pulida-350mm-20mm-2-0mm.webp",
+    "price": null,
+    "priceMax": null,
+    "quoteOnly": true,
+    "variants": []
+  },
+  {
+    "id": 1642,
+    "slug": "cuchilla-palmera-p-desbrozadora-gavilan",
+    "sku": null,
+    "name": "Cuchilla Palmera P/Desbrozadora Gavilan",
+    "brand": "Gavilan",
+    "category": "maquinaria",
+    "description": "Cuchilla para maquina para cortar el prado de 350mm para cortes de gran dureza, permite mayor velocidad y homogeneidad del corte, para usar en agricultura y jardinería a gran escala.",
+    "image": "/products/cuchilla-palmera-p-desbrozadora-gavilan.webp",
+    "price": 4.19,
+    "priceMax": null,
+    "quoteOnly": false,
+    "variants": [
+      {
+        "id": 1644,
+        "label": "450mm X 20mm 2.5″",
+        "sku": null,
+        "price": 4.19
+      },
+      {
+        "id": 1643,
+        "label": "450mm X 25mm 1″",
+        "sku": null,
+        "price": 4.19
+      }
+    ]
+  },
+  {
+    "id": 1280,
+    "slug": "cuchilla-pulida-p-desbrozadora-gavilan",
+    "sku": null,
+    "name": "Cuchilla Pulida P/Desbrozadora Gavilan",
+    "brand": "Gavilan",
+    "category": "maquinaria",
+    "description": "Cuchilla para maquina para cortar el prado de 350mm para cortes de gran dureza, permite mayor velocidad y homogeneidad del corte, para usar en agricultura y jardinería a gran escala.",
+    "image": "/products/cuchilla-pulida-p-desbrozadora-gavilan.webp",
+    "price": 3.32,
+    "priceMax": null,
+    "quoteOnly": false,
+    "variants": [
+      {
+        "id": 1284,
+        "label": "350mm X 20mm 2.5″",
+        "sku": null,
+        "price": 3.32
+      },
+      {
+        "id": 1285,
+        "label": "350mm X 25mm 1″",
+        "sku": null,
+        "price": 3.32
+      }
+    ]
+  },
+  {
+    "id": 1688,
+    "slug": "dado-adaptador-crv-elite",
+    "sku": null,
+    "name": "Dado Adaptador CRV ELITE",
+    "brand": "Elite",
+    "category": "herramientas",
+    "description": "El dado adaptador elaborado de acero cromo vanadio con alta resistencia, permite ajustar las opciones de uso en las distintas medidas de tuercas.",
+    "image": "/products/dado-adaptador-crv-elite.webp",
+    "price": 0.34,
+    "priceMax": 1.57,
+    "quoteOnly": false,
+    "variants": [
+      {
+        "id": 1689,
+        "label": "1/2 – 3/8",
+        "sku": null,
+        "price": 1.57
+      },
+      {
+        "id": 2086,
+        "label": "1/4 – 3/8",
+        "sku": null,
+        "price": 0.34
+      },
+      {
+        "id": 1690,
+        "label": "3/8 – 1/2",
+        "sku": null,
+        "price": 1.35
+      },
+      {
+        "id": 1691,
+        "label": "3/8 – 1/4",
+        "sku": null,
+        "price": 0.47
+      }
+    ]
+  },
+  {
+    "id": 1394,
+    "slug": "dado-mecanico-de-1-2-plg",
+    "sku": null,
+    "name": "Dado Mecánico de 1/2 plg",
+    "brand": null,
+    "category": "herramientas",
+    "description": "Su formato especial permite el uso en 6 perfiles diferentes de tornillos: multidentado, cuadrado, estriado, hexagonal, gastado o trafix. Mayor resistencia y seguridad en sus manos.",
+    "image": "/products/dado-mecanico-de-1-2-plg.webp",
+    "price": 0.48,
+    "priceMax": 2.2,
+    "quoteOnly": false,
+    "variants": [
+      {
+        "id": 1853,
+        "label": "1/2 8mm",
+        "sku": null,
+        "price": 0.53
+      },
+      {
+        "id": 1401,
+        "label": "1/2 10mm",
+        "sku": null,
+        "price": 0.48
+      },
+      {
+        "id": 1400,
+        "label": "1/2 11mm",
+        "sku": null,
+        "price": 0.56
+      },
+      {
+        "id": 1398,
+        "label": "1/2 12mm",
+        "sku": null,
+        "price": 0.59
+      },
+      {
+        "id": 1397,
+        "label": "1/2 13mm",
+        "sku": null,
+        "price": 0.62
+      },
+      {
+        "id": 1396,
+        "label": "1/2 14mm",
+        "sku": null,
+        "price": 0.64
+      },
+      {
+        "id": 1395,
+        "label": "1/2 15mm",
+        "sku": null,
+        "price": 0.66
+      },
+      {
+        "id": 1723,
+        "label": "1/2 17mm",
+        "sku": null,
+        "price": 0.77
+      },
+      {
+        "id": 1722,
+        "label": "1/2 19mm",
+        "sku": null,
+        "price": 0.86
+      },
+      {
+        "id": 1721,
+        "label": "1/2 21mm",
+        "sku": null,
+        "price": 0.96
+      },
+      {
+        "id": 1852,
+        "label": "1/2 24mm",
+        "sku": null,
+        "price": 1.16
+      },
+      {
+        "id": 1720,
+        "label": "1/2 27mm",
+        "sku": null,
+        "price": 1.68
+      },
+      {
+        "id": 2087,
+        "label": "1/2 32mm",
+        "sku": null,
+        "price": 2.2
+      }
+    ]
+  },
+  {
+    "id": 1406,
+    "slug": "desbrozadora-4-en-1-52cc",
+    "sku": null,
+    "name": "Desbrozadora 4 en 1 (52cc)",
+    "brand": null,
+    "category": "maquinaria",
+    "description": "Desbrozadora Elite multifunción Motor de 52 cc (4 herramientas en 1 ) motosierra telescópica podadora, desbrozadora hilo, cortasetos altura con varias posiciones y desbrozadora disco. Incluye arnés, botella de mezcla, kit de herramientas de mantenimiento.",
+    "image": "/products/desbrozadora-4-en-1-52cc.webp",
+    "price": 273.93,
+    "priceMax": null,
+    "quoteOnly": false,
+    "variants": []
+  },
+  {
+    "id": 1439,
+    "slug": "desbrozadora-52cc",
+    "sku": null,
+    "name": "Desbrozadora 52cc",
+    "brand": null,
+    "category": "maquinaria",
+    "description": "Motor 2 Tiempos Tanque 1.2 litros Potencia 1.5 kw/6500R/min Ideal para el corte de hierba, plantas, ramas, etc. Está diseñado para trabajar en cualquier posición. encendido rápido. Doble anillo para un mejor desempeño y durabilidad. arnés universal reforzado. Su seguridad es máxima con la cubierta de protección de la hoja de corte. Realiza un trabajo de precisión y permite un fácil dominio de la hoja y corte. Tiene un diseño ergonómico y de alta calidad.",
+    "image": "/products/desbrozadora-52cc.webp",
+    "price": 173.6,
+    "priceMax": null,
+    "quoteOnly": false,
+    "variants": []
+  },
+  {
+    "id": 2039,
+    "slug": "desbrozadora-profesional-bellota-db4200-s",
+    "sku": null,
+    "name": "Desbrozadora Profesional Bellota DB4200-S",
+    "brand": "Bellota",
+    "category": "maquinaria",
+    "description": "Con motor a combustión a 2 tiempos. Cuenta con un poderoso motor de 41,5 cc refrigerado por aire, 2 HP de potencia. Velocidad máxima con cuchilla 11500 RPM y 9500 con yoyo. Incluye arnés profesional",
+    "image": "/products/desbrozadora-profesional-bellota-db4200-s.webp",
+    "price": 201.64,
+    "priceMax": null,
+    "quoteOnly": false,
+    "variants": []
+  },
+  {
+    "id": 1875,
+    "slug": "desjarretadera-con-gancho-gavilan",
+    "sku": null,
+    "name": "Desjarretadera con gancho/Gavilan",
+    "brand": "Gavilan",
+    "category": "agricola-jardin",
+    "description": "Desjarratadera herramienta necesaria en la agricultura y ganadería. Hecha de acero de alta calidad y con un diseño ergonómico, que hace más fácil su manejo y mejora su eficiencia.",
+    "image": "/products/desjarretadera-con-gancho-gavilan.webp",
+    "price": 3.74,
+    "priceMax": null,
+    "quoteOnly": false,
+    "variants": []
+  },
+  {
+    "id": 2240,
+    "slug": "destornilador-elite-de-impacto-5-16-x-8",
+    "sku": "1938",
+    "name": "Destornilador Elite De Impacto 5/16 X 8",
+    "brand": "Elite",
+    "category": "herramientas",
+    "description": null,
+    "image": "/products/destornilador-elite-de-impacto-5-16-x-8.webp",
+    "price": null,
+    "priceMax": null,
+    "quoteOnly": true,
+    "variants": []
+  },
+  {
+    "id": 1745,
+    "slug": "destornillador-elite-de-impacto",
+    "sku": null,
+    "name": "Destornillador Elite de Impacto",
+    "brand": "Elite",
+    "category": "herramientas",
+    "description": "El destornillador de impacto es una herramienta muy útil para todo tipo de usos, desde el doméstico hasta el industrial. Está compuesto para ejercer la fuerza; el vástago, que es la parte que une la punta con el mango; y el mango, que proporciona la zona de agarre. Este mango está diseñado para recibir los golpes de un martillo y convertir esa fuerza en giros para atornillar o desatornillar con más fuerza que un destornillador ordinario.",
+    "image": "/products/destornillador-elite-de-impacto.webp",
+    "price": 1.64,
+    "priceMax": 2.16,
+    "quoteOnly": false,
+    "variants": [
+      {
+        "id": 1746,
+        "label": "5/16 x 10 · Estrella",
+        "sku": null,
+        "price": 2.16
+      },
+      {
+        "id": 1747,
+        "label": "5/16 x 10 · Plano",
+        "sku": null,
+        "price": 2.16
+      },
+      {
+        "id": 1748,
+        "label": "6×150 1/4×6 · Estrella",
+        "sku": null,
+        "price": 1.64
+      },
+      {
+        "id": 1749,
+        "label": "6×150 1/4×6 · Plano",
+        "sku": null,
+        "price": 1.64
+      }
+    ]
+  },
+  {
+    "id": 1500,
+    "slug": "destornillador-elite-rojo-estrella",
+    "sku": null,
+    "name": "Destornillador ELITE Rojo/Estrella",
+    "brand": "Elite",
+    "category": "herramientas",
+    "description": "Empleados en trabajos de naturaleza eléctrica estan recubiertos de una capa de material plástico aislante no sólo en el mango, sino también en la mayor parte del cuello de metal.",
+    "image": "/products/destornillador-elite-rojo-estrella.webp",
+    "price": 0.75,
+    "priceMax": 1.97,
+    "quoteOnly": false,
+    "variants": [
+      {
+        "id": 1631,
+        "label": "3x75mm-1/8×3",
+        "sku": null,
+        "price": 0.75
+      },
+      {
+        "id": 1507,
+        "label": "4X75mm-5/32×3",
+        "sku": null,
+        "price": 0.75
+      },
+      {
+        "id": 1501,
+        "label": "4x100mm-5/32×4",
+        "sku": null,
+        "price": 1.02
+      },
+      {
+        "id": 1506,
+        "label": "4x125mm-5/32×5",
+        "sku": null,
+        "price": 1.06
+      },
+      {
+        "id": 1508,
+        "label": "5x100mm-3/16×4",
+        "sku": null,
+        "price": 1.09
+      },
+      {
+        "id": 1509,
+        "label": "5x125mm-3/16×5",
+        "sku": null,
+        "price": 1.12
+      },
+      {
+        "id": 1510,
+        "label": "5x150mm-3/16×6",
+        "sku": null,
+        "price": 1.14
+      },
+      {
+        "id": 1511,
+        "label": "6x100mm-1/4×4",
+        "sku": null,
+        "price": 1.23
+      },
+      {
+        "id": 1512,
+        "label": "6x125mm-1/4×5",
+        "sku": null,
+        "price": 1.25
+      },
+      {
+        "id": 1513,
+        "label": "6x150mm-1/4×6",
+        "sku": null,
+        "price": 1.32
+      },
+      {
+        "id": 1514,
+        "label": "8x150mm-5/16×6",
+        "sku": null,
+        "price": 1.97
+      }
+    ]
+  },
+  {
+    "id": 1515,
+    "slug": "destornillador-elite-verde-plano",
+    "sku": null,
+    "name": "Destornillador ELITE Verde/Plano",
+    "brand": "Elite",
+    "category": "herramientas",
+    "description": "Mango ergonomico, para mayor agarre y longevidad barra de acero Cromo-Vanadio imantado",
+    "image": "/products/destornillador-elite-verde-plano.webp",
+    "price": 0.75,
+    "priceMax": 1.9,
+    "quoteOnly": false,
+    "variants": [
+      {
+        "id": 1630,
+        "label": "3x75mm-1/8×3",
+        "sku": null,
+        "price": 0.75
+      },
+      {
+        "id": 1724,
+        "label": "3x100mm-1/8×4",
+        "sku": null,
+        "price": 0.82
+      },
+      {
+        "id": 1517,
+        "label": "4x75mm-5/32×3",
+        "sku": null,
+        "price": 0.75
+      },
+      {
+        "id": 1614,
+        "label": "4x100mm-5/32×4",
+        "sku": null,
+        "price": 1.02
+      },
+      {
+        "id": 1516,
+        "label": "4x125mm-5/32×5",
+        "sku": null,
+        "price": 1.06
+      },
+      {
+        "id": 1518,
+        "label": "5x100mm-3/16×4",
+        "sku": null,
+        "price": 1.09
+      },
+      {
+        "id": 1519,
+        "label": "5x125mm-3/16×5",
+        "sku": null,
+        "price": 1.12
+      },
+      {
+        "id": 1520,
+        "label": "5x150mm-3/16×6",
+        "sku": null,
+        "price": 1.14
+      },
+      {
+        "id": 1521,
+        "label": "6x100mm-1/4×4",
+        "sku": null,
+        "price": 1.23
+      },
+      {
+        "id": 1522,
+        "label": "6x125mm-1/4×5",
+        "sku": null,
+        "price": 1.25
+      },
+      {
+        "id": 1523,
+        "label": "6x150mm-1/4×6",
+        "sku": null,
+        "price": 1.32
+      },
+      {
+        "id": 1524,
+        "label": "8x150mm-5/16×6",
+        "sku": null,
+        "price": 1.9
+      }
+    ]
+  },
+  {
+    "id": 1750,
+    "slug": "disco-circular-para-desbrozadora",
+    "sku": null,
+    "name": "Disco Circular Para Desbrozadora",
+    "brand": null,
+    "category": "maquinaria",
+    "description": "Disco Circular 40 dientes para desbrozadora, utilizado generalmente cuando cortan arboles finos, corte de hierba cuando tiende haber algo de vegetación un poco mas gruesa, útil para cuando la zona hay variedad de pequeños ramajes con hierba.",
+    "image": "/products/disco-circular-para-desbrozadora.webp",
+    "price": 5.82,
+    "priceMax": null,
+    "quoteOnly": false,
+    "variants": []
+  },
+  {
+    "id": 2040,
+    "slug": "disco-desbrozadora-cadena-motosierra-25mmx235mm",
+    "sku": null,
+    "name": "Disco Desbrozadora Cadena Motosierra 25mmx235mm",
+    "brand": null,
+    "category": "maquinaria",
+    "description": "Corta todo tipo de madera, plásticos y materiales suaves. Tiene acople para diámetro de 20mm. Fabricado en materiales resistentes a la oxidación. Fijado con remaches de alta ingeniería.",
+    "image": "/products/disco-desbrozadora-cadena-motosierra-25mmx235mm.webp",
+    "price": 20.16,
+    "priceMax": null,
+    "quoteOnly": false,
+    "variants": []
+  },
+  {
+    "id": 1692,
+    "slug": "disco-diamante-segmentado-continuo-turbo-elite",
+    "sku": null,
+    "name": "Disco Diamante: Segmentado / Continuo / Turbo – ELITE",
+    "brand": "Elite",
+    "category": "herramientas",
+    "description": "Discos compuestos por partículas de diamante que es considerado el material de alta pureza y abrasión; el cual permite hacer cortes con una interesante dureza, precisos y en muy poco tiempo. Pueden hacer cortes en hormigón, en azulejos, ladrillo, losetas, en piedra, así como en muchos otros materiales, por eso es recomendable que los mismos sean utilizados por los profesionales de la herrería, albañilería, marmoleros o de construcción en general. Existen varios tipos: Continuo: Es el disco que se utiliza para tratar mármol, loseta o azulejos, el resultado final son unos acabados finos. Segmentado: Tiene una gran velocidad de corte, comparado con el disco continuo el acabado no es muy fino. Se utiliza para tratar piedra, granito, bloque o ladrillo. Turbo: Se caracterizan por tener una mayor velocidad de corte que los discos de borde continuo y un mejor acabado que los discos de borde segmentado, con banda diamantada almenada para cortar materiales como loseta, mármol, piedra, porcelanato, entre otros",
+    "image": "/products/disco-diamante-segmentado-continuo-turbo-elite.webp",
+    "price": 1.7,
+    "priceMax": 8.71,
+    "quoteOnly": false,
+    "variants": [
+      {
+        "id": 1696,
+        "label": "Continuo · 4plg 115mm",
+        "sku": null,
+        "price": 1.7
+      },
+      {
+        "id": 1697,
+        "label": "Continuo · 7plg 180mm",
+        "sku": null,
+        "price": 4.87
+      },
+      {
+        "id": 1706,
+        "label": "Continuo · 9plg 230mm",
+        "sku": null,
+        "price": 8.34
+      },
+      {
+        "id": 1693,
+        "label": "Segmentado · 4 1/4plg 115mm",
+        "sku": null,
+        "price": 2.15
+      },
+      {
+        "id": 1694,
+        "label": "Segmentado · 7plg 180mm",
+        "sku": null,
+        "price": 4.94
+      },
+      {
+        "id": 1695,
+        "label": "Segmentado · 9plg 230mm",
+        "sku": null,
+        "price": 8.71
+      },
+      {
+        "id": 1707,
+        "label": "Turbo · 4 1/2",
+        "sku": null,
+        "price": 3.27
+      },
+      {
+        "id": 1708,
+        "label": "Turbo · 7",
+        "sku": null,
+        "price": 4.87
+      }
+    ]
+  },
+  {
+    "id": 1279,
+    "slug": "disco-elite-corte-de-madera-7-14",
+    "sku": null,
+    "name": "Disco ELITE Corte de Madera 7/14",
+    "brand": "Elite",
+    "category": "herramientas",
+    "description": "Calidad superior que proporciona mayor duración y facilidad de corte, por su diseño hace cortes mas eficaces. Adaptable a sierras circulares y de mesa.",
+    "image": "/products/disco-elite-corte-de-madera-7-14.webp",
+    "price": 4.3,
+    "priceMax": 5.9,
+    "quoteOnly": false,
+    "variants": [
+      {
+        "id": 1281,
+        "label": "24",
+        "sku": null,
+        "price": 4.3
+      },
+      {
+        "id": 1282,
+        "label": "36",
+        "sku": null,
+        "price": 4.94
+      },
+      {
+        "id": 1283,
+        "label": "60",
+        "sku": null,
+        "price": 5.9
+      }
+    ]
+  },
+  {
+    "id": 1228,
+    "slug": "disparador",
+    "sku": null,
+    "name": "Disparador",
+    "brand": null,
+    "category": "agricola-jardin",
+    "description": null,
+    "image": "/products/disparador.webp",
+    "price": 3.63,
+    "priceMax": null,
+    "quoteOnly": false,
+    "variants": []
+  },
+  {
+    "id": 1229,
+    "slug": "embolo-16lt",
+    "sku": null,
+    "name": "Embolo 16LT",
+    "brand": null,
+    "category": "agricola-jardin",
+    "description": null,
+    "image": "/products/embolo-16lt.webp",
+    "price": 4.66,
+    "priceMax": null,
+    "quoteOnly": false,
+    "variants": []
+  },
+  {
+    "id": 1230,
+    "slug": "embolo-20lt",
+    "sku": null,
+    "name": "Embolo 20LT",
+    "brand": null,
+    "category": "agricola-jardin",
+    "description": null,
+    "image": "/products/embolo-20lt.webp",
+    "price": 4.66,
+    "priceMax": null,
+    "quoteOnly": false,
+    "variants": []
+  },
+  {
+    "id": 1766,
+    "slug": "engrapadora-pistola-profesional",
+    "sku": null,
+    "name": "Engrapadora Pistola Profesional",
+    "brand": null,
+    "category": "herramientas",
+    "description": "Engrapadora industrial profesional tipo pistola se usa para fijar y unir objetos mediante la aplicación de grapas. Son mucho más versátiles, duraderas y potentes que las engrapadoras convencionales de escritorio, lo cual permite usarlas en superficies rígidas como madera, así como en textiles",
+    "image": "/products/engrapadora-pistola-profesional.webp",
+    "price": 10.46,
+    "priceMax": null,
+    "quoteOnly": false,
+    "variants": []
+  },
+  {
+    "id": 1356,
+    "slug": "escoba-jardin-metalica",
+    "sku": null,
+    "name": "Escoba Jardín Metálica",
+    "brand": null,
+    "category": "agricola-jardin",
+    "description": "Escoba de jardín metálica 22 dientes con mango, fabricada en acero al carbono gran resistencia al desgaste. Acabado en pintura electrostática. Diseño curvo.",
+    "image": "/products/escoba-jardin-metalica.webp",
+    "price": 4.18,
+    "priceMax": null,
+    "quoteOnly": false,
+    "variants": []
+  },
+  {
+    "id": 1751,
+    "slug": "escoba-jardin-plastica",
+    "sku": null,
+    "name": "Escoba Jardín Plástica",
+    "brand": null,
+    "category": "agricola-jardin",
+    "description": "Escoba jardín plástica 22 dientes con mango",
+    "image": "/products/escoba-jardin-plastica.webp",
+    "price": 4.26,
+    "priceMax": null,
+    "quoteOnly": false,
+    "variants": []
+  },
+  {
+    "id": 2041,
+    "slug": "escoba-prado-bellota-5370-26-ms-101519",
+    "sku": null,
+    "name": "Escoba Prado Bellota 5370-26 MS 101519",
+    "brand": "Bellota",
+    "category": "agricola-jardin",
+    "description": "Ideal para barrer elementos duros o de gran volumen. Ligera y fácil de manipular. Cuenta con una estructura fuerte, resistente y balanceada. Mango de madera incluido de fácil instalación.",
+    "image": "/products/escoba-prado-bellota-5370-26-ms-101519.webp",
+    "price": 4.63,
+    "priceMax": null,
+    "quoteOnly": false,
+    "variants": []
+  },
+  {
+    "id": 1755,
+    "slug": "escuadra-falsa",
+    "sku": null,
+    "name": "Escuadra Falsa",
+    "brand": null,
+    "category": "herramientas",
+    "description": "Escuadra falsa 10 pgl, es una herramienta que se emplea para copiar, marcar o verificar ángulos de diferentes grados. Se trata de un elemento indispensable para la carpintería, pero también es muy útil en otros trabajos.",
+    "image": "/products/escuadra-falsa.webp",
+    "price": 2.99,
+    "priceMax": null,
+    "quoteOnly": false,
+    "variants": []
+  },
+  {
+    "id": 1307,
+    "slug": "escuadra-metalica",
+    "sku": null,
+    "name": "Escuadra metálica",
+    "brand": null,
+    "category": "herramientas",
+    "description": "Escuadra Profesional Elite Con mango metálico. Acabado con laca resistente a la corrosión. Escala en bajo relieve. Escala métrica y en pulgadas.",
+    "image": "/products/escuadra-metalica.webp",
+    "price": 4.04,
+    "priceMax": 8.75,
+    "quoteOnly": false,
+    "variants": [
+      {
+        "id": 1310,
+        "label": "10",
+        "sku": null,
+        "price": 4.04
+      },
+      {
+        "id": 1309,
+        "label": "12",
+        "sku": null,
+        "price": 4.41
+      },
+      {
+        "id": 1733,
+        "label": "12plg x 8plg",
+        "sku": null,
+        "price": 4.82
+      },
+      {
+        "id": 1308,
+        "label": "14",
+        "sku": null,
+        "price": 4.93
+      },
+      {
+        "id": 1734,
+        "label": "24plg x 16plg",
+        "sku": null,
+        "price": 8.75
+      }
+    ]
+  },
+  {
+    "id": 1387,
+    "slug": "espatula-madera",
+    "sku": null,
+    "name": "Espatula Madera",
+    "brand": null,
+    "category": "pintura",
+    "description": "Lámina en acero inoxidable que cubre todo el mango de madera. Mango con agarre óptimo y ergonómico.",
+    "image": "/products/espatula-madera.webp",
+    "price": 1.28,
+    "priceMax": 2.07,
+    "quoteOnly": false,
+    "variants": [
+      {
+        "id": 1388,
+        "label": "1.5",
+        "sku": null,
+        "price": 1.28
+      },
+      {
+        "id": 1389,
+        "label": "2",
+        "sku": null,
+        "price": 1.32
+      },
+      {
+        "id": 1390,
+        "label": "2.5",
+        "sku": null,
+        "price": 1.38
+      },
+      {
+        "id": 1391,
+        "label": "3",
+        "sku": null,
+        "price": 1.48
+      },
+      {
+        "id": 1392,
+        "label": "4",
+        "sku": null,
+        "price": 1.85
+      },
+      {
+        "id": 1393,
+        "label": "5",
+        "sku": null,
+        "price": 2.07
+      }
+    ]
+  },
+  {
+    "id": 1257,
+    "slug": "estiletes",
+    "sku": null,
+    "name": "Estiletes",
+    "brand": null,
+    "category": "herramientas",
+    "description": null,
+    "image": "/products/estiletes.webp",
+    "price": 0.89,
+    "priceMax": 5.33,
+    "quoteOnly": false,
+    "variants": [
+      {
+        "id": 1854,
+        "label": "Económico con repuestos",
+        "sku": null,
+        "price": 0.89
+      },
+      {
+        "id": 1429,
+        "label": "Metálico",
+        "sku": null,
+        "price": 5.33
+      },
+      {
+        "id": 1259,
+        "label": "Profesional 101",
+        "sku": null,
+        "price": 2.69
+      },
+      {
+        "id": 1258,
+        "label": "Standard 100",
+        "sku": null,
+        "price": 1.59
+      }
+    ]
+  },
+  {
+    "id": 1714,
+    "slug": "extension-de-racha-profesional-de-1-2-elite",
+    "sku": null,
+    "name": "Extensión de Racha Profesional de 1/2 ELITE",
+    "brand": "Elite",
+    "category": "herramientas",
+    "description": "Juego de 3 Piezas de extensión de Racha 5-10 plg Barra T 10 plg, resistente, buena calidad",
+    "image": "/products/extension-de-racha-profesional-de-1-2-elite.webp",
+    "price": 7.24,
+    "priceMax": null,
+    "quoteOnly": false,
+    "variants": []
+  },
+  {
+    "id": 1752,
+    "slug": "extension-elite-de-rodillo",
+    "sku": null,
+    "name": "Extension ELITE de Rodillo",
+    "brand": "Elite",
+    "category": "pintura",
+    "description": "Extensiones de rodillos presentación de 2 metros y 3 metros",
+    "image": "/products/extension-elite-de-rodillo.webp",
+    "price": 4.28,
+    "priceMax": 7.52,
+    "quoteOnly": false,
+    "variants": [
+      {
+        "id": 1753,
+        "label": "2 metros",
+        "sku": null,
+        "price": 4.28
+      },
+      {
+        "id": 1754,
+        "label": "3 metros",
+        "sku": null,
+        "price": 7.52
+      }
+    ]
+  },
+  {
+    "id": 1297,
+    "slug": "flexometros",
+    "sku": null,
+    "name": "Flexómetros",
+    "brand": null,
+    "category": "herramientas",
+    "description": "Carcasa cubierta, resistente a los impactos, gancho doble, cinta con números grandes para su mejor lectura. Botón de pausa de activación rápida, sistema con amortiguador que absorbe el impacto al regreso de la cinta. Cinta ancha que permite extenderse a una longitud mayor sin doblarse.",
+    "image": "/products/flexometros.webp",
+    "price": 1.13,
+    "priceMax": 3.41,
+    "quoteOnly": false,
+    "variants": [
+      {
+        "id": 1299,
+        "label": "3m",
+        "sku": null,
+        "price": 1.13
+      },
+      {
+        "id": 1300,
+        "label": "5m",
+        "sku": null,
+        "price": 1.82
+      },
+      {
+        "id": 1301,
+        "label": "8m",
+        "sku": null,
+        "price": 3.41
+      }
+    ]
+  },
+  {
+    "id": 1599,
+    "slug": "foco-led-elite",
+    "sku": null,
+    "name": "Foco LED ELITE",
+    "brand": "Elite",
+    "category": "electricidad",
+    "description": "Foco LED ELITE Potencia 9W, 12W, 15W Temperatura de color 6.500K Luz Fría, Flujo Luminoso 800 Lm, Horas vida 15.000H, Voltaje 110-240V, Frecuencia 50 – 60 Hz, Índice de Reproducción del Color 80",
+    "image": "/products/foco-led-elite.webp",
+    "price": 1.26,
+    "priceMax": 1.64,
+    "quoteOnly": false,
+    "variants": [
+      {
+        "id": 1601,
+        "label": "9W",
+        "sku": null,
+        "price": 1.26
+      },
+      {
+        "id": 1600,
+        "label": "12W",
+        "sku": null,
+        "price": 1.39
+      },
+      {
+        "id": 1735,
+        "label": "15W",
+        "sku": null,
+        "price": 1.64
+      }
+    ]
+  },
+  {
+    "id": 1272,
+    "slug": "formon-de-madera",
+    "sku": null,
+    "name": "Formon de madera",
+    "brand": null,
+    "category": "herramientas",
+    "description": "Es un producto de alta resistencia que ofrece una doble función gracias a su filo, que le permite a los usuarios trabajar en las aplicaciones exigentes de un cincel y trabajos para golpeo en la construcción. Gracias al filo de la parte frontal y lateral, este producto es la combinación perfecta entre un cincel y un cuchillo. Se puede utilizar para cortar, raspar, hacer juntas en puertas, trabajos de madera, entre otros usos. El mango del formón está fabricado en madera de haya resistente a impactos.",
+    "image": "/products/formon-de-madera.webp",
+    "price": 2.78,
+    "priceMax": 3.46,
+    "quoteOnly": false,
+    "variants": [
+      {
+        "id": 1277,
+        "label": "1",
+        "sku": null,
+        "price": 3.37
+      },
+      {
+        "id": 1275,
+        "label": "1/2",
+        "sku": null,
+        "price": 2.78
+      },
+      {
+        "id": 1276,
+        "label": "3/4",
+        "sku": null,
+        "price": 2.92
+      },
+      {
+        "id": 1278,
+        "label": "7/8",
+        "sku": null,
+        "price": 3.46
+      }
+    ]
+  },
+  {
+    "id": 1922,
+    "slug": "fregadero-multifuncion",
+    "sku": null,
+    "name": "Fregadero multifunción",
+    "brand": null,
+    "category": "hogar",
+    "description": "Fregadero multifunción con cascada tipo ducha y continua, limpia vasos, recipientes movibles y llave multifunción.",
+    "image": "/products/fregadero-multifuncion.webp",
+    "price": 258.65,
+    "priceMax": null,
+    "quoteOnly": false,
+    "variants": []
+  },
+  {
+    "id": 2043,
+    "slug": "fumigadora-bellota-pl2500-nylon",
+    "sku": null,
+    "name": "Fumigadora Bellota PL2500 Nylon",
+    "brand": "Bellota",
+    "category": "agricola-jardin",
+    "description": "Motor de 2 tiempos para uso profesional y cilindraje de 26 cc. Permite la aplicación de insecticidas y fungicidas en cultivos en general, o donde se requiera una mayor penetración del producto. Bomba plástica o bomba de latón.",
+    "image": "/products/fumigadora-bellota-pl2500-nylon.webp",
+    "price": 191.6,
+    "priceMax": null,
+    "quoteOnly": false,
+    "variants": []
+  },
+  {
+    "id": 1408,
+    "slug": "fumigadora-elite-a-motor-20-lts",
+    "sku": null,
+    "name": "Fumigadora ELITE a Motor 20 lts",
+    "brand": "Elite",
+    "category": "maquinaria",
+    "description": "Se destaca por contar con un cómodo arnés tipo mochila y diseño del depósito de químicos bien balanceado, la fumigadora Fumigadora ELITE también cuenta con un excelente rango de pulverización, con alcance efectivo de hasta 16 metros horizontalmente. La capacidad de su tanque químico es de 20 litros.",
+    "image": "/products/fumigadora-elite-a-motor-20-lts.webp",
+    "price": 191.4,
+    "priceMax": null,
+    "quoteOnly": false,
+    "variants": []
+  },
+  {
+    "id": 1220,
+    "slug": "fumigadoras-elite",
+    "sku": null,
+    "name": "Fumigadoras ELITE",
+    "brand": "Elite",
+    "category": "agricola-jardin",
+    "description": "Fumigadoras ELITE. Excelentes para trabajar en interiores o exteriores, desde casas, galpones hasta huertas y jardines de medio y gran tamaño, o en aquellas áreas que por su técnica de aplicación o dificultad del terreno, exijan tener la mano libre y/o no permitan llevar grandes pesos a la espalda. La capacidad útil en estos modelos es de aproximadamente dos tercios de su capacidad total, debiendo dejar el tercio restante sin llenar para comprimir el aire. Una vez obtenida la presión y tras activar repetidas veces la cámara de presión se puede iniciar el tratamiento. Mayor comodidad para el transporte y llenado del depósito, Manilla ergonómica, filtro con juntas de vitón y muelle inoxidable, Boquilla cónica regulable y adaptador de accesorios, válvula de cierre de la cámara en vitón. Fácil uso y mantenimiento. Disponibles en varios tamaños.",
+    "image": "/products/fumigadoras-elite.webp",
+    "price": 3.5,
+    "priceMax": 19.89,
+    "quoteOnly": false,
+    "variants": [
+      {
+        "id": 1222,
+        "label": "2 Litros",
+        "sku": null,
+        "price": 3.5
+      },
+      {
+        "id": 1221,
+        "label": "5 Litros",
+        "sku": null,
+        "price": 9.5
+      },
+      {
+        "id": 1223,
+        "label": "8 Litros",
+        "sku": null,
+        "price": 11.63
+      },
+      {
+        "id": 1224,
+        "label": "16 Litros",
+        "sku": null,
+        "price": 17.35
+      },
+      {
+        "id": 1225,
+        "label": "20 Litros",
+        "sku": null,
+        "price": 19.89
+      }
+    ]
+  },
+  {
+    "id": 1756,
+    "slug": "gafas-elite-transparentes-anti-impacto",
+    "sku": null,
+    "name": "Gafas ELITE Transparentes Anti-Impacto",
+    "brand": "Elite",
+    "category": "seguridad",
+    "description": null,
+    "image": "/products/gafas-elite-transparentes-anti-impacto.webp",
+    "price": 1.8,
+    "priceMax": null,
+    "quoteOnly": false,
+    "variants": []
+  },
+  {
+    "id": 1890,
+    "slug": "garruchas",
+    "sku": null,
+    "name": "Garruchas",
+    "brand": null,
+    "category": "ferreteria",
+    "description": "Garrucha industrial fija, con ruedas resistentes al desgaste. Perfecta para movilizar muebles, herramientas, estanterías, equipo médico, etc. Base y pernos galvanizados para mayor resistencia.",
+    "image": "/products/garruchas.webp",
+    "price": 1.25,
+    "priceMax": 3.53,
+    "quoteOnly": false,
+    "variants": [
+      {
+        "id": 1892,
+        "label": "FIJA · 2.5″",
+        "sku": null,
+        "price": 2.5
+      },
+      {
+        "id": 1891,
+        "label": "FIJA · 2″",
+        "sku": null,
+        "price": 1.28
+      },
+      {
+        "id": 1893,
+        "label": "FIJA · 3″",
+        "sku": null,
+        "price": 2.16
+      },
+      {
+        "id": 1894,
+        "label": "FIJA · 4″",
+        "sku": null,
+        "price": 2.59
+      },
+      {
+        "id": 1902,
+        "label": "FIJA · 5″",
+        "sku": null,
+        "price": 3.03
+      },
+      {
+        "id": 1896,
+        "label": "GIRATORIA · 2.5″",
+        "sku": null,
+        "price": 2.76
+      },
+      {
+        "id": 1895,
+        "label": "GIRATORIA · 2″",
+        "sku": null,
+        "price": 1.25
+      },
+      {
+        "id": 1900,
+        "label": "GIRATORIA · 3″",
+        "sku": null,
+        "price": 2.63
+      },
+      {
+        "id": 1898,
+        "label": "GIRATORIA · 4″",
+        "sku": null,
+        "price": 3.23
+      },
+      {
+        "id": 1899,
+        "label": "GIRATORIA · 5″",
+        "sku": null,
+        "price": 3.48
+      },
+      {
+        "id": 1901,
+        "label": "GIRATORIA CON FRENO · 2.5″",
+        "sku": null,
+        "price": 3.28
+      },
+      {
+        "id": 1897,
+        "label": "GIRATORIA CON FRENO · 2″",
+        "sku": null,
+        "price": 1.62
+      },
+      {
+        "id": 1921,
+        "label": "GIRATORIA CON FRENO · 3″",
+        "sku": null,
+        "price": 3.53
+      }
+    ]
+  },
+  {
+    "id": 1948,
+    "slug": "gatas-botella",
+    "sku": null,
+    "name": "Gatas Botella",
+    "brand": null,
+    "category": "automotriz",
+    "description": "La gata tipo botella es una herramienta esencial no solo para elevar vehículos, sino también para asistir en el levantamiento de maquinaria u otras cargas pesadas. Gracias a su sistema hidráulico de alta calidad, ofrece una elevación suave y precisa, convirtiéndola en la opción perfecta para tareas de mantenimiento y reparación de automóviles y camiones.",
+    "image": "/products/gatas-botella.webp",
+    "price": 13.39,
+    "priceMax": 20.19,
+    "quoteOnly": false,
+    "variants": [
+      {
+        "id": 1974,
+        "label": "2 T",
+        "sku": null,
+        "price": 13.39
+      },
+      {
+        "id": 1973,
+        "label": "3 T",
+        "sku": null,
+        "price": 15.66
+      },
+      {
+        "id": 1972,
+        "label": "4 T",
+        "sku": null,
+        "price": 16.68
+      },
+      {
+        "id": 1950,
+        "label": "5 T",
+        "sku": null,
+        "price": 18.45
+      },
+      {
+        "id": 1949,
+        "label": "6 T",
+        "sku": null,
+        "price": 20.19
+      }
+    ]
+  },
+  {
+    "id": 1980,
+    "slug": "gatas-lagarto",
+    "sku": null,
+    "name": "Gatas Lagarto",
+    "brand": null,
+    "category": "automotriz",
+    "description": "Gata hidráulica tipo lagarto, perfecta para levantar gran variedad de vehículos.",
+    "image": "/products/gatas-lagarto.webp",
+    "price": 35.68,
+    "priceMax": 113.18,
+    "quoteOnly": false,
+    "variants": [
+      {
+        "id": 1982,
+        "label": "2 T",
+        "sku": null,
+        "price": 35.68
+      },
+      {
+        "id": 1981,
+        "label": "3 T",
+        "sku": null,
+        "price": 113.18
+      }
+    ]
+  },
+  {
+    "id": 1765,
+    "slug": "grapa-profesional-para-tierra",
+    "sku": null,
+    "name": "Grapa Profesional para Tierra",
+    "brand": null,
+    "category": "herramientas",
+    "description": "Grapa Profesional para tierra 500 amp",
+    "image": "/products/grapa-profesional-para-tierra.webp",
+    "price": 5.7,
+    "priceMax": null,
+    "quoteOnly": false,
+    "variants": []
+  },
+  {
+    "id": 1757,
+    "slug": "grapas-elite-para-engrapadora",
+    "sku": null,
+    "name": "Grapas Elite Para Engrapadora",
+    "brand": "Elite",
+    "category": "herramientas",
+    "description": "Grapas para engrapadora 5/16 pulgadas 8ml Emgram (1000 und)",
+    "image": "/products/grapas-elite-para-engrapadora.webp",
+    "price": 1.35,
+    "priceMax": null,
+    "quoteOnly": false,
+    "variants": []
+  },
+  {
+    "id": 1762,
+    "slug": "grata-elite-dorada",
+    "sku": null,
+    "name": "Grata ELITE Dorada",
+    "brand": "Elite",
+    "category": "pintura",
+    "description": "El uso de la Grata principalmente es para la remoción de oxido, pintura y adherencias en general. Es apropiada para emplearse sobre superficies de metal, piedra y concreto. También es útil para la limpieza de piezas de fundición, caucho, plástico y madera.",
+    "image": "/products/grata-elite-dorada.webp",
+    "price": 3.1,
+    "priceMax": 4.31,
+    "quoteOnly": false,
+    "variants": [
+      {
+        "id": 1763,
+        "label": "4 plg",
+        "sku": null,
+        "price": 3.1
+      },
+      {
+        "id": 1764,
+        "label": "5 plg",
+        "sku": null,
+        "price": 4.31
+      }
+    ]
+  },
+  {
+    "id": 1758,
+    "slug": "grata-elite-trenzada",
+    "sku": null,
+    "name": "Grata ELITE Trenzada",
+    "brand": "Elite",
+    "category": "pintura",
+    "description": "Grata o Copa Trenzada, para el tratamiento de superficies planas, limpieza, remoción de residuo, oxido y pintura.",
+    "image": "/products/grata-elite-trenzada.webp",
+    "price": 2.39,
+    "priceMax": 5.37,
+    "quoteOnly": false,
+    "variants": [
+      {
+        "id": 1759,
+        "label": "3 pulg",
+        "sku": null,
+        "price": 2.39
+      },
+      {
+        "id": 1760,
+        "label": "4 pulg",
+        "sku": null,
+        "price": 3.58
+      },
+      {
+        "id": 1761,
+        "label": "5 pulg",
+        "sku": null,
+        "price": 5.37
+      }
+    ]
+  },
+  {
+    "id": 1803,
+    "slug": "guantes-de-cuero",
+    "sku": null,
+    "name": "Guantes de Cuero",
+    "brand": null,
+    "category": "seguridad",
+    "description": "Guantes de Cuero varios modelos, usos múltiples",
+    "image": "/products/guantes-de-cuero.webp",
+    "price": 1.6,
+    "priceMax": 2.53,
+    "quoteOnly": false,
+    "variants": [
+      {
+        "id": 1805,
+        "label": "Corto",
+        "sku": null,
+        "price": 1.96
+      },
+      {
+        "id": 1806,
+        "label": "Largo",
+        "sku": null,
+        "price": 2.53
+      },
+      {
+        "id": 1804,
+        "label": "Operador",
+        "sku": null,
+        "price": 1.6
+      }
+    ]
+  },
+  {
+    "id": 1800,
+    "slug": "gurbia-colorada-gavilan",
+    "sku": null,
+    "name": "Gurbia Colorada Gavilan",
+    "brand": "Gavilan",
+    "category": "agricola-jardin",
+    "description": "Gurbia marca Gavilán, colorado de mando de plástico, este estilo es utilizada en el área agrícola, sin embargo tiene varios uso",
+    "image": "/products/gurbia-colorada-gavilan.webp",
+    "price": 2.44,
+    "priceMax": 2.93,
+    "quoteOnly": false,
+    "variants": [
+      {
+        "id": 1801,
+        "label": "4",
+        "sku": null,
+        "price": 2.44
+      },
+      {
+        "id": 1802,
+        "label": "5",
+        "sku": null,
+        "price": 2.93
+      }
+    ]
+  },
+  {
+    "id": 1318,
+    "slug": "hachuela",
+    "sku": null,
+    "name": "Hachuela",
+    "brand": null,
+    "category": "herramientas",
+    "description": "Hachuela Elite, mango de fibra cabeza pulida con barniz de protección, banda rugosa núcleo de fibra de vidrio casi indestructible con envoltura plástica, con mango ergonómico para mejor agarre.",
+    "image": "/products/hachuela.webp",
+    "price": 8.38,
+    "priceMax": 8.98,
+    "quoteOnly": false,
+    "variants": [
+      {
+        "id": 1323,
+        "label": "600gr",
+        "sku": null,
+        "price": 8.38
+      },
+      {
+        "id": 1322,
+        "label": "800gr",
+        "sku": null,
+        "price": 8.98
+      }
+    ]
+  },
+  {
+    "id": 1793,
+    "slug": "hilo-elite-p-desbrozadora-15-metros",
+    "sku": null,
+    "name": "Hilo Elite P/ Desbrozadora 15 Metros",
+    "brand": "Elite",
+    "category": "maquinaria",
+    "description": "Hilo marca Elite para desbrozadora resistente, garantizado por su calidad",
+    "image": "/products/hilo-elite-p-desbrozadora-15-metros.webp",
+    "price": 2.21,
+    "priceMax": 4.96,
+    "quoteOnly": false,
+    "variants": [
+      {
+        "id": 1794,
+        "label": "3.0mm · Cuadrado",
+        "sku": null,
+        "price": 2.21
+      },
+      {
+        "id": 1796,
+        "label": "3.0mm · Redondo – Núcleo de Metal",
+        "sku": null,
+        "price": 4.96
+      },
+      {
+        "id": 1795,
+        "label": "3.3mm · Redondo",
+        "sku": null,
+        "price": 2.21
+      }
+    ]
+  },
+  {
+    "id": 1797,
+    "slug": "hoyadora-elite-52cc",
+    "sku": null,
+    "name": "Hoyadora Elite 52cc",
+    "brand": "Elite",
+    "category": "maquinaria",
+    "description": "Hoyadora Profesional Elite motor 2 tiempos 52cc. Capacidad de tanque 1.2 L. Broca 6. Power 1.6 kw",
+    "image": "/products/hoyadora-elite-52cc.webp",
+    "price": 184.23,
+    "priceMax": null,
+    "quoteOnly": false,
+    "variants": []
+  },
+  {
+    "id": 1923,
+    "slug": "inflador-de-aire-doble",
+    "sku": null,
+    "name": "Inflador de aire doble",
+    "brand": null,
+    "category": "automotriz",
+    "description": "El inflador de aire doble, es una herramienta fácil de llevar, permite un fácil acceso a las válvulas y precisión máxima al momento de inflar sus llantas.",
+    "image": "/products/inflador-de-aire-doble.webp",
+    "price": 3.14,
+    "priceMax": null,
+    "quoteOnly": false,
+    "variants": []
+  },
+  {
+    "id": 1598,
+    "slug": "juego-de-dados-1-2-20-pzas",
+    "sku": null,
+    "name": "Juego de Dados 1/2″ (20 Pzas)",
+    "brand": null,
+    "category": "herramientas",
+    "description": "Juego de dados marca ELITE presentación de 1/2″ compuesta por 20 piezas (dados 10 al 24, 27,30 y 32 , llave de racha y palanca de media)",
+    "image": "/products/juego-de-dados-1-2-20-pzas.webp",
+    "price": 29.86,
+    "priceMax": null,
+    "quoteOnly": false,
+    "variants": []
+  },
+  {
+    "id": 1798,
+    "slug": "juego-de-destornilladores-10-pzs",
+    "sku": null,
+    "name": "Juego de Destornilladores 10 pzs",
+    "brand": null,
+    "category": "herramientas",
+    "description": "Juego de Destornilladores Elite 10 piezas, Plano 5×75 -6×38 – 6×100 – 6×150 – 5×150 estrella 6×38 – 8×150 – 5×100 – 6×100 – 6×150",
+    "image": "/products/juego-de-destornilladores-10-pzs.webp",
+    "price": 10.37,
+    "priceMax": null,
+    "quoteOnly": false,
+    "variants": []
+  },
+  {
+    "id": 1359,
+    "slug": "juego-de-destornilladores-6pcs",
+    "sku": null,
+    "name": "Juego De Destornilladores 6pcs",
+    "brand": null,
+    "category": "herramientas",
+    "description": "Mango Hergonomico, para mayor agarre y longevidad barra de acero Cromo-Vanadio",
+    "image": "/products/juego-de-destornilladores-6pcs.webp",
+    "price": 7.44,
+    "priceMax": null,
+    "quoteOnly": false,
+    "variants": []
+  },
+  {
+    "id": 1560,
+    "slug": "juego-de-jardin-3-piezas",
+    "sku": null,
+    "name": "Juego de Jardin (3 Piezas)",
+    "brand": null,
+    "category": "agricola-jardin",
+    "description": "Juego de Jardín ELITE conformado por mini pala, mini rastrillo y mini rascador con mando de madera y acero inoxidable",
+    "image": "/products/juego-de-jardin-3-piezas.webp",
+    "price": 3.63,
+    "priceMax": null,
+    "quoteOnly": false,
+    "variants": []
+  },
+  {
+    "id": 1399,
+    "slug": "juego-de-llaves-mixtas",
+    "sku": null,
+    "name": "Juego de llaves mixtas",
+    "brand": null,
+    "category": "herramientas",
+    "description": null,
+    "image": "/products/juego-de-llaves-mixtas.webp",
+    "price": 14.89,
+    "priceMax": null,
+    "quoteOnly": false,
+    "variants": []
+  },
+  {
+    "id": 1799,
+    "slug": "juego-llaves-mixta-con-racha-7pzas",
+    "sku": null,
+    "name": "Juego Llaves Mixta con Racha 7pzas",
+    "brand": null,
+    "category": "herramientas",
+    "description": "Juego de Llaves mixtas de racha marca Elite, 7 piezas la medidas del 9 a la 15mm, cromadas, inoxidables",
+    "image": "/products/juego-llaves-mixta-con-racha-7pzas.webp",
+    "price": 26.21,
+    "priceMax": null,
+    "quoteOnly": false,
+    "variants": []
+  },
+  {
+    "id": 1732,
+    "slug": "kit-elite-14pcs-para-compresor",
+    "sku": null,
+    "name": "Kit ELITE 14pcs para Compresor",
+    "brand": "Elite",
+    "category": "maquinaria",
+    "description": "Juego de 14pcs para compresor",
+    "image": "/products/kit-elite-14pcs-para-compresor.webp",
+    "price": 6.85,
+    "priceMax": null,
+    "quoteOnly": false,
+    "variants": []
+  },
+  {
+    "id": 1550,
+    "slug": "kit-para-cerradura-3pcs",
+    "sku": null,
+    "name": "Kit para Cerradura (3PCS)",
+    "brand": null,
+    "category": "seguridad",
+    "description": "Kit que ayuda a la instalación de la cerradura, compuesto por broca 22mm, mandril con adaptador de taladro para cualquier tipo de puertas",
+    "image": "/products/kit-para-cerradura-3pcs.webp",
+    "price": 2.16,
+    "priceMax": null,
+    "quoteOnly": false,
+    "variants": []
+  },
+  {
+    "id": 2242,
+    "slug": "linterna-elite-minero-pilas-3xaaa",
+    "sku": "1968",
+    "name": "Linterna Elite Minero Pilas 3XAAA No/Inc",
+    "brand": "Elite",
+    "category": "electricidad",
+    "description": null,
+    "image": "/products/linterna-elite-minero-pilas-3xaaa.webp",
+    "price": null,
+    "priceMax": null,
+    "quoteOnly": true,
+    "variants": []
+  },
+  {
+    "id": 1932,
+    "slug": "linternas-mineras",
+    "sku": null,
+    "name": "Linternas mineras",
+    "brand": null,
+    "category": "electricidad",
+    "description": null,
+    "image": "/products/linternas-mineras.webp",
+    "price": 0.64,
+    "priceMax": 5.47,
+    "quoteOnly": false,
+    "variants": [
+      {
+        "id": 1934,
+        "label": "Con pilas",
+        "sku": null,
+        "price": 0.64
+      },
+      {
+        "id": 1933,
+        "label": "Reforzada",
+        "sku": null,
+        "price": 5.47
+      }
+    ]
+  },
+  {
+    "id": 1938,
+    "slug": "linternas-usb",
+    "sku": null,
+    "name": "Linternas USB",
+    "brand": null,
+    "category": "electricidad",
+    "description": "Linternas USB recargable, con 3 tipos de luces y fáciles de llevar",
+    "image": "/products/linternas-usb.webp",
+    "price": 2.88,
+    "priceMax": 2.94,
+    "quoteOnly": false,
+    "variants": [
+      {
+        "id": 1939,
+        "label": "Tipo Esfero",
+        "sku": null,
+        "price": 2.88
+      },
+      {
+        "id": 1940,
+        "label": "Tipo Llavero",
+        "sku": null,
+        "price": 2.94
+      }
+    ]
+  },
+  {
+    "id": 1499,
+    "slug": "llana-dentada",
+    "sku": null,
+    "name": "Llana Dentada",
+    "brand": null,
+    "category": "pintura",
+    "description": "Mango de madera para facilitar su uso, es de uso profesional, en la construcción, para postura de pisos y paredes cerámicas, le da una forma diferente, garantizando un trabajo limpio y profesional.",
+    "image": "/products/llana-dentada.webp",
+    "price": 4.05,
+    "priceMax": null,
+    "quoteOnly": false,
+    "variants": []
+  },
+  {
+    "id": 1498,
+    "slug": "llana-lisa",
+    "sku": null,
+    "name": "Llana Lisa",
+    "brand": null,
+    "category": "pintura",
+    "description": "Mango madera herramienta que alisa, comprime y extiende con facilidad la masa para revestimientos y blanqueos",
+    "image": "/products/llana-lisa.webp",
+    "price": 3.98,
+    "priceMax": null,
+    "quoteOnly": false,
+    "variants": []
+  },
+  {
+    "id": 1774,
+    "slug": "llave-de-rueda-en-cruz-elite",
+    "sku": null,
+    "name": "Llave de Rueda en Cruz Elite",
+    "brand": "Elite",
+    "category": "automotriz",
+    "description": "Llave de Rueda en Cruz medidas 16 x 17 x 19 x 21 x 23",
+    "image": "/products/llave-de-rueda-en-cruz-elite.webp",
+    "price": 5.82,
+    "priceMax": null,
+    "quoteOnly": false,
+    "variants": []
+  },
+  {
+    "id": 1441,
+    "slug": "llave-de-tubo",
+    "sku": null,
+    "name": "Llave de Tubo",
+    "brand": null,
+    "category": "herramientas",
+    "description": null,
+    "image": "/products/llave-de-tubo.webp",
+    "price": 3.77,
+    "priceMax": 7.33,
+    "quoteOnly": false,
+    "variants": [
+      {
+        "id": 1447,
+        "label": "8",
+        "sku": null,
+        "price": 3.77
+      },
+      {
+        "id": 1448,
+        "label": "10",
+        "sku": null,
+        "price": 5.29
+      },
+      {
+        "id": 1449,
+        "label": "12",
+        "sku": null,
+        "price": 6.46
+      },
+      {
+        "id": 1450,
+        "label": "14",
+        "sku": null,
+        "price": 7.33
+      }
+    ]
+  },
+  {
+    "id": 1440,
+    "slug": "llave-francesa",
+    "sku": null,
+    "name": "Llave Francesa",
+    "brand": null,
+    "category": "herramientas",
+    "description": "Usada para ajustar y desajustar, tuercas, tornillos y demás conjuntos que presenten una geometría hexagonal de preferencia.",
+    "image": "/products/llave-francesa.webp",
+    "price": 4.44,
+    "priceMax": 7.76,
+    "quoteOnly": false,
+    "variants": [
+      {
+        "id": 1444,
+        "label": "8",
+        "sku": null,
+        "price": 4.44
+      },
+      {
+        "id": 1445,
+        "label": "10",
+        "sku": null,
+        "price": 5.86
+      },
+      {
+        "id": 1446,
+        "label": "12",
+        "sku": null,
+        "price": 7.76
+      }
+    ]
+  },
+  {
+    "id": 1402,
+    "slug": "llave-hexagonal-9-pcs",
+    "sku": null,
+    "name": "Llave Hexagonal 9 pcs",
+    "brand": null,
+    "category": "herramientas",
+    "description": null,
+    "image": "/products/llave-hexagonal-9-pcs.webp",
+    "price": 4.29,
+    "priceMax": null,
+    "quoteOnly": false,
+    "variants": []
+  },
+  {
+    "id": 1790,
+    "slug": "llave-mandril-elite",
+    "sku": null,
+    "name": "Llave Mandril Elite",
+    "brand": "Elite",
+    "category": "herramientas",
+    "description": "Llave mandril para taladro, herramienta de calidad en forma de cilindro, cuya función es sujetar las brocas o algún otro accesorio, su función es obtener un mejor control del taladro.",
+    "image": "/products/llave-mandril-elite.webp",
+    "price": 0.63,
+    "priceMax": 1.01,
+    "quoteOnly": false,
+    "variants": [
+      {
+        "id": 1791,
+        "label": "1/2",
+        "sku": null,
+        "price": 1.01
+      },
+      {
+        "id": 1792,
+        "label": "3/8",
+        "sku": null,
+        "price": 0.63
+      }
+    ]
+  },
+  {
+    "id": 1442,
+    "slug": "llave-mixta-crv-elite",
+    "sku": null,
+    "name": "Llave Mixta CRV ELITE",
+    "brand": "Elite",
+    "category": "herramientas",
+    "description": "La preparación previa del níquel garantiza una adhesión óptima del cromo, incluso en trabajos de gran dureza. La forma redonda de los cantos evita esquinas y cantos cortantes. El cromado mate aumenta el agarre incluso con manos grasosas. Concentra el material en los lugares donde se produce la presión.",
+    "image": "/products/llave-mixta-crv-elite.webp",
+    "price": 0.91,
+    "priceMax": 4.24,
+    "quoteOnly": false,
+    "variants": [
+      {
+        "id": 1451,
+        "label": "7mm",
+        "sku": null,
+        "price": 0.91
+      },
+      {
+        "id": 1452,
+        "label": "8mm",
+        "sku": null,
+        "price": 0.91
+      },
+      {
+        "id": 1453,
+        "label": "9mm",
+        "sku": null,
+        "price": 1.04
+      },
+      {
+        "id": 1454,
+        "label": "10mm",
+        "sku": null,
+        "price": 1.08
+      },
+      {
+        "id": 1472,
+        "label": "11mm",
+        "sku": null,
+        "price": 1.22
+      },
+      {
+        "id": 1473,
+        "label": "12mm",
+        "sku": null,
+        "price": 1.3
+      },
+      {
+        "id": 1474,
+        "label": "13mm",
+        "sku": null,
+        "price": 1.41
+      },
+      {
+        "id": 1475,
+        "label": "14mm",
+        "sku": null,
+        "price": 1.53
+      },
+      {
+        "id": 1476,
+        "label": "15mm",
+        "sku": null,
+        "price": 1.7
+      },
+      {
+        "id": 1477,
+        "label": "16mm",
+        "sku": null,
+        "price": 1.91
+      },
+      {
+        "id": 1478,
+        "label": "17mm",
+        "sku": null,
+        "price": 2.15
+      },
+      {
+        "id": 1479,
+        "label": "18mm",
+        "sku": null,
+        "price": 2.36
+      },
+      {
+        "id": 1480,
+        "label": "19mm",
+        "sku": null,
+        "price": 2.55
+      },
+      {
+        "id": 1481,
+        "label": "20mm",
+        "sku": null,
+        "price": 2.77
+      },
+      {
+        "id": 1482,
+        "label": "21mm",
+        "sku": null,
+        "price": 3.2
+      },
+      {
+        "id": 1483,
+        "label": "22mm",
+        "sku": null,
+        "price": 3.81
+      },
+      {
+        "id": 1484,
+        "label": "23mm",
+        "sku": null,
+        "price": 3.89
+      },
+      {
+        "id": 1485,
+        "label": "24mm",
+        "sku": null,
+        "price": 4.24
+      }
+    ]
+  },
+  {
+    "id": 1807,
+    "slug": "llave-mixta-racha-desgonzada",
+    "sku": null,
+    "name": "Llave Mixta Racha Desgonzada",
+    "brand": null,
+    "category": "herramientas",
+    "description": "Llave mixta desgonzada con racha Elite cromado",
+    "image": "/products/llave-mixta-racha-desgonzada.webp",
+    "price": 4.93,
+    "priceMax": 6.52,
+    "quoteOnly": false,
+    "variants": [
+      {
+        "id": 1808,
+        "label": "10",
+        "sku": null,
+        "price": 4.93
+      },
+      {
+        "id": 1809,
+        "label": "11",
+        "sku": null,
+        "price": 5.35
+      },
+      {
+        "id": 1810,
+        "label": "12",
+        "sku": null,
+        "price": 5.6
+      },
+      {
+        "id": 1811,
+        "label": "13",
+        "sku": null,
+        "price": 6.03
+      },
+      {
+        "id": 1812,
+        "label": "14",
+        "sku": null,
+        "price": 6.52
+      }
+    ]
+  },
+  {
+    "id": 1443,
+    "slug": "llave-mixta-racha-elite",
+    "sku": null,
+    "name": "Llave Mixta Racha ELITE",
+    "brand": "Elite",
+    "category": "herramientas",
+    "description": "Acabado Cromado, Material de la Llave Acero, Herramienta Estándar (Accesorio Necesario para Enganchado), Compensación 0 Grados , Cabeza Flexible",
+    "image": "/products/llave-mixta-racha-elite.webp",
+    "price": 2.96,
+    "priceMax": 8.03,
+    "quoteOnly": false,
+    "variants": [
+      {
+        "id": 1588,
+        "label": "8mm",
+        "sku": null,
+        "price": 2.96
+      },
+      {
+        "id": 1589,
+        "label": "9mm",
+        "sku": null,
+        "price": 3.13
+      },
+      {
+        "id": 1486,
+        "label": "10mm",
+        "sku": null,
+        "price": 3.23
+      },
+      {
+        "id": 1487,
+        "label": "11mm",
+        "sku": null,
+        "price": 3.39
+      },
+      {
+        "id": 1488,
+        "label": "12mm",
+        "sku": null,
+        "price": 3.81
+      },
+      {
+        "id": 1489,
+        "label": "13mm",
+        "sku": null,
+        "price": 3.93
+      },
+      {
+        "id": 1490,
+        "label": "14mm",
+        "sku": null,
+        "price": 4.25
+      },
+      {
+        "id": 1585,
+        "label": "15mm",
+        "sku": null,
+        "price": 4.48
+      },
+      {
+        "id": 1586,
+        "label": "16mm",
+        "sku": null,
+        "price": 4.6
+      },
+      {
+        "id": 1491,
+        "label": "17mm",
+        "sku": null,
+        "price": 4.7
+      },
+      {
+        "id": 1587,
+        "label": "18mm",
+        "sku": null,
+        "price": 4.85
+      },
+      {
+        "id": 1492,
+        "label": "19mm",
+        "sku": null,
+        "price": 4.87
+      },
+      {
+        "id": 1493,
+        "label": "24mm",
+        "sku": null,
+        "price": 8.03
+      }
+    ]
+  },
+  {
+    "id": 1767,
+    "slug": "llave-t-elite-crv",
+    "sku": null,
+    "name": "Llave T Elite CRV",
+    "brand": "Elite",
+    "category": "herramientas",
+    "description": "Llave elaborada en acero inoxidable especial de alta aleación, con medida grabada, mango ergonómica en T, su uso es cuando se requiere algo más de fuerza.",
+    "image": "/products/llave-t-elite-crv.webp",
+    "price": 1.38,
+    "priceMax": 1.58,
+    "quoteOnly": false,
+    "variants": [
+      {
+        "id": 1847,
+        "label": "8mm",
+        "sku": null,
+        "price": 1.38
+      },
+      {
+        "id": 1768,
+        "label": "10mm",
+        "sku": null,
+        "price": 1.42
+      },
+      {
+        "id": 1769,
+        "label": "11mm",
+        "sku": null,
+        "price": 1.44
+      },
+      {
+        "id": 1770,
+        "label": "12mm",
+        "sku": null,
+        "price": 1.48
+      },
+      {
+        "id": 1771,
+        "label": "13mm",
+        "sku": null,
+        "price": 1.49
+      },
+      {
+        "id": 1772,
+        "label": "14mm",
+        "sku": null,
+        "price": 1.54
+      },
+      {
+        "id": 1773,
+        "label": "17mm",
+        "sku": null,
+        "price": 1.58
+      }
+    ]
+  },
+  {
+    "id": 1403,
+    "slug": "llave-torx-9-pcs",
+    "sku": null,
+    "name": "Llave Torx 9 pcs",
+    "brand": null,
+    "category": "herramientas",
+    "description": null,
+    "image": "/products/llave-torx-9-pcs.webp",
+    "price": 5.19,
+    "priceMax": null,
+    "quoteOnly": false,
+    "variants": []
+  },
+  {
+    "id": 1674,
+    "slug": "llave-universal-profesional-elite-2-pcs",
+    "sku": null,
+    "name": "Llave Universal Profesional ELITE (2 pcs)",
+    "brand": "Elite",
+    "category": "herramientas",
+    "description": "Llave auto ajustable, con agarre rápido, lo que permite que pueda ajustar rápidamente en tuberías, tubos espirales, tuercas, pernos, tornillos, entre otros. Puede sujetar objetos en libertad y sin deslizamientos.",
+    "image": "/products/llave-universal-profesional-elite-2-pcs.webp",
+    "price": 4.62,
+    "priceMax": null,
+    "quoteOnly": false,
+    "variants": []
+  },
+  {
+    "id": 2049,
+    "slug": "machete-191-24-ppm-deshijador-bellota",
+    "sku": null,
+    "name": "Machete 191-24 PPM Deshijador Bellota",
+    "brand": "Bellota",
+    "category": "agricola-jardin",
+    "description": "Herramienta ideal para deshijar y limpiar cultivos de manera eficiente. Su hoja tratada térmicamente ofrece un corte limpio y preciso, facilitando la eliminación de brotes no deseados",
+    "image": "/products/machete-191-24-ppm-deshijador-bellota.webp",
+    "price": 4.45,
+    "priceMax": null,
+    "quoteOnly": false,
+    "variants": []
+  },
+  {
+    "id": 2044,
+    "slug": "machete-bellota-191-21-ppnsa-210191ne",
+    "sku": null,
+    "name": "Machete Bellota 191-21 PPNSA 210191NE",
+    "brand": "Bellota",
+    "category": "agricola-jardin",
+    "description": "Resistente y duradero, tratado térmicamente para una mayor dureza. Corte limpio, filo penetrante que facilita el corte de cualquier tipo de vegetación o cultivo. A tu medida, ligero, flexible y con ajuste seguro de remaches para hacer más cómodo tu trabajo.",
+    "image": "/products/machete-bellota-191-21-ppnsa-210191ne.webp",
+    "price": 4.51,
+    "priceMax": null,
+    "quoteOnly": false,
+    "variants": []
+  },
+  {
+    "id": 2045,
+    "slug": "machete-bellota-191b-24-ppn-sa",
+    "sku": null,
+    "name": "Machete Bellota 191B-24 PPN/SA",
+    "brand": "Bellota",
+    "category": "agricola-jardin",
+    "description": "Machete agrícola para cortes en diversos cultivos Tratado térmicamente para una mayor dureza. Corte limpio. Filo penetrante que facilita el corte de cualquier tipo de vegetación o cultivo.",
+    "image": "/products/machete-bellota-191b-24-ppn-sa.webp",
+    "price": 4.45,
+    "priceMax": null,
+    "quoteOnly": false,
+    "variants": []
+  },
+  {
+    "id": 2046,
+    "slug": "machete-bellota-191b-24-ppr-sa-240191e",
+    "sku": null,
+    "name": "Machete Bellota 191B-24 PPR/SA 240191E",
+    "brand": "Bellota",
+    "category": "agricola-jardin",
+    "description": "Resistente y duradero, tratado térmicamente para una mayor dureza. Corte limpio, filo penetrante que facilita el corte de cualquier tipo de vegetación o cultivo.",
+    "image": "/products/machete-bellota-191b-24-ppr-sa-240191e.webp",
+    "price": 4.42,
+    "priceMax": null,
+    "quoteOnly": false,
+    "variants": []
+  },
+  {
+    "id": 2048,
+    "slug": "machete-bellota-465-12-pbm",
+    "sku": null,
+    "name": "Machete Bellota 465-12 PBM",
+    "brand": "Bellota",
+    "category": "agricola-jardin",
+    "description": "Machete rambo Machete-Cuchillo desarrollado para labores de supervivencia. Mantenimiento de jardines y pequeñas zonas que requieran retirar la maleza.",
+    "image": "/products/machete-bellota-465-12-pbm.webp",
+    "price": 4.27,
+    "priceMax": null,
+    "quoteOnly": false,
+    "variants": []
+  },
+  {
+    "id": 2050,
+    "slug": "machete-bellota-721-14-ppn",
+    "sku": null,
+    "name": "Machete Bellota 721-14 PPN",
+    "brand": "Bellota",
+    "category": "agricola-jardin",
+    "description": "Herramienta resistente diseñada para abordar una variedad de tareas. Su hoja de acero brindar mayor dureza y durabilidad. Este machete facilita el corte de vegetación y cultivos. Ya sea para trabajos en el jardín o en el campo.",
+    "image": "/products/machete-bellota-721-14-ppn.webp",
+    "price": 4.16,
+    "priceMax": null,
+    "quoteOnly": false,
+    "variants": []
+  },
+  {
+    "id": 2051,
+    "slug": "machete-bellota-721-16-ppn",
+    "sku": null,
+    "name": "Machete Bellota 721-16 PPN",
+    "brand": "Bellota",
+    "category": "agricola-jardin",
+    "description": "Machete Agrícola Resistente y duradero Corte limpio, filo penetrante que facilita el corte de cualquier tipo de vegetación o cultivo. A tu medida, ligero, flexible y con ajuste seguro de remaches para hacer más cómodo tu trabajo.",
+    "image": "/products/machete-bellota-721-16-ppn.webp",
+    "price": 4.16,
+    "priceMax": null,
+    "quoteOnly": false,
+    "variants": []
+  },
+  {
+    "id": 2052,
+    "slug": "machete-bellota-721-18-ppn",
+    "sku": null,
+    "name": "Machete Bellota 721-18 PPn",
+    "brand": "Bellota",
+    "category": "agricola-jardin",
+    "description": "Herramienta resistente diseñada para abordar una variedad de tareas. Su hoja de acero brindar mayor dureza y durabilidad. Este machete facilita el corte de vegetación y cultivos. Ya sea para trabajos en el jardín o en el campo.",
+    "image": "/products/machete-bellota-721-18-ppn.webp",
+    "price": 4.26,
+    "priceMax": null,
+    "quoteOnly": false,
+    "variants": []
+  },
+  {
+    "id": 1602,
+    "slug": "machete-gavilan",
+    "sku": null,
+    "name": "Machete Gavilan",
+    "brand": "Gavilan",
+    "category": "agricola-jardin",
+    "description": "Machete Gavilan distintos tipos y medidas, herramienta utilizada para podar plantas, cortar las hierbas entre otros usos",
+    "image": "/products/machete-gavilan.webp",
+    "price": 4.08,
+    "priceMax": null,
+    "quoteOnly": false,
+    "variants": [
+      {
+        "id": 1605,
+        "label": "191 CACHA NARANJA · 24″",
+        "sku": null,
+        "price": 4.08
+      },
+      {
+        "id": 1603,
+        "label": "191 CACHA NEGRO · 21″",
+        "sku": null,
+        "price": 4.08
+      },
+      {
+        "id": 1604,
+        "label": "191 CACHA NEGRO · 24″",
+        "sku": null,
+        "price": 4.08
+      },
+      {
+        "id": 1609,
+        "label": "ARROCERO · 13″",
+        "sku": null,
+        "price": 4.08
+      },
+      {
+        "id": 1610,
+        "label": "PEINILLA CACHA NARANJA · 18″",
+        "sku": null,
+        "price": 4.08
+      },
+      {
+        "id": 1611,
+        "label": "PEINILLA CACHA NARANJA · 20″",
+        "sku": null,
+        "price": 4.08
+      },
+      {
+        "id": 1608,
+        "label": "TIPO RULA CACHA NARANJA · 24″",
+        "sku": null,
+        "price": 4.08
+      },
+      {
+        "id": 1606,
+        "label": "TIPO YEGUA CACHA NARANJA · 24″",
+        "sku": null,
+        "price": 4.08
+      },
+      {
+        "id": 1607,
+        "label": "TIPO YEGUA CACHA NEGRA · 24″",
+        "sku": null,
+        "price": 4.08
+      }
+    ]
+  },
+  {
+    "id": 1813,
+    "slug": "mandril-y-llave-para-taladro-1-2-elite",
+    "sku": null,
+    "name": "Mandril y Llave para Taladro 1/2 Elite",
+    "brand": "Elite",
+    "category": "herramientas",
+    "description": "Mandril y Llave para taladro de 1/2 marca Elite",
+    "image": "/products/mandril-y-llave-para-taladro-1-2-elite.webp",
+    "price": 4.81,
+    "priceMax": null,
+    "quoteOnly": false,
+    "variants": []
+  },
+  {
+    "id": 1227,
+    "slug": "manguera",
+    "sku": null,
+    "name": "Manguera",
+    "brand": null,
+    "category": "agricola-jardin",
+    "description": null,
+    "image": "/products/manguera.webp",
+    "price": 2.12,
+    "priceMax": null,
+    "quoteOnly": false,
+    "variants": []
+  },
+  {
+    "id": 1814,
+    "slug": "manguera-de-jardin-100m",
+    "sku": null,
+    "name": "Manguera de Jardín 100m",
+    "brand": null,
+    "category": "agricola-jardin",
+    "description": "Manguera de Jardín 1/2 100 metros",
+    "image": "/products/manguera-de-jardin-100m.webp",
+    "price": 32.57,
+    "priceMax": null,
+    "quoteOnly": false,
+    "variants": []
+  },
+  {
+    "id": 1986,
+    "slug": "mangueras-de-aire",
+    "sku": null,
+    "name": "Mangueras de aire",
+    "brand": null,
+    "category": "ferreteria",
+    "description": "Mangueras de aire de 50 m, de 700/2100 PSI, de alta flexibilidad.",
+    "image": "/products/mangueras-de-aire.webp",
+    "price": 41.4,
+    "priceMax": null,
+    "quoteOnly": false,
+    "variants": []
+  },
+  {
+    "id": 1983,
+    "slug": "mangueras-de-gas",
+    "sku": null,
+    "name": "Mangueras de gas",
+    "brand": null,
+    "category": "ferreteria",
+    "description": "Manguera de gas de 50 m, de alta flexibilidad.",
+    "image": "/products/mangueras-de-gas.webp",
+    "price": 31.32,
+    "priceMax": 31.44,
+    "quoteOnly": false,
+    "variants": [
+      {
+        "id": 1987,
+        "label": "Amarilla 350/100 PSI",
+        "sku": null,
+        "price": 31.44
+      },
+      {
+        "id": 1984,
+        "label": "Naranja 420/110 PSI",
+        "sku": null,
+        "price": 31.44
+      },
+      {
+        "id": 1985,
+        "label": "Negro con Azul 420/110 PSI",
+        "sku": null,
+        "price": 31.32
+      }
+    ]
+  },
+  {
+    "id": 1298,
+    "slug": "martillos",
+    "sku": null,
+    "name": "Martillos",
+    "brand": null,
+    "category": "herramientas",
+    "description": null,
+    "image": "/products/martillos.webp",
+    "price": 3.67,
+    "priceMax": 5.93,
+    "quoteOnly": false,
+    "variants": [
+      {
+        "id": 1306,
+        "label": "Fibra · 25mm",
+        "sku": null,
+        "price": 4.87
+      },
+      {
+        "id": 1311,
+        "label": "Fibra · 27mm",
+        "sku": null,
+        "price": 5.36
+      },
+      {
+        "id": 1312,
+        "label": "Fibra · 29mm",
+        "sku": null,
+        "price": 5.93
+      },
+      {
+        "id": 1590,
+        "label": "Madera · 23mm",
+        "sku": null,
+        "price": 3.67
+      },
+      {
+        "id": 1313,
+        "label": "Madera · 25mm",
+        "sku": null,
+        "price": 4.13
+      },
+      {
+        "id": 1314,
+        "label": "Madera · 27mm",
+        "sku": null,
+        "price": 5.05
+      },
+      {
+        "id": 1315,
+        "label": "Madera · 29mm",
+        "sku": null,
+        "price": 5.53
+      },
+      {
+        "id": 1316,
+        "label": "Metálico · 29mm",
+        "sku": null,
+        "price": 5.16
+      }
+    ]
+  },
+  {
+    "id": 1887,
+    "slug": "medidor-de-presion-de-neumaticos-tipo-lapiz",
+    "sku": null,
+    "name": "Medidor de presión de neumáticos tipo lápiz",
+    "brand": null,
+    "category": "automotriz",
+    "description": "Medidor de presión de neumáticos, dispositivo portátil y fácil de usar para medir la presión de los neumáticos. Proporciona una lectura rápida y precisa de la presión que tienen sus neumáticos.",
+    "image": "/products/medidor-de-presion-de-neumaticos-tipo-lapiz.webp",
+    "price": 5.07,
+    "priceMax": null,
+    "quoteOnly": false,
+    "variants": []
+  },
+  {
+    "id": 1612,
+    "slug": "mini-martillo-elite",
+    "sku": null,
+    "name": "Mini Martillo ELITE",
+    "brand": "Elite",
+    "category": "herramientas",
+    "description": "Elaborado de acero inoxidable mando de fibra ergonómico para mejor manipulación",
+    "image": "/products/mini-martillo-elite.webp",
+    "price": 4.63,
+    "priceMax": null,
+    "quoteOnly": false,
+    "variants": []
+  },
+  {
+    "id": 1613,
+    "slug": "mini-pala-cuadrada",
+    "sku": null,
+    "name": "Mini Pala Cuadrada",
+    "brand": null,
+    "category": "agricola-jardin",
+    "description": "Posee un cabo de madera 100% resistente y reforzada con el fin de adaptarse a las necesidades de cada situación. Este cabo es de alta densidad y posee terminación suave que no daña la mano.",
+    "image": "/products/mini-pala-cuadrada.webp",
+    "price": 5.68,
+    "priceMax": null,
+    "quoteOnly": false,
+    "variants": []
+  },
+  {
+    "id": 1815,
+    "slug": "mini-pala-redonda",
+    "sku": null,
+    "name": "Mini Pala Redonda",
+    "brand": null,
+    "category": "agricola-jardin",
+    "description": "Posee un cabo de madera 100% resistente y reforzada con el fin de adaptarse a las necesidades de cada situación. Este cabo es de alta densidad y posee terminación suave que no daña la mano",
+    "image": "/products/mini-pala-redonda.webp",
+    "price": 4.9,
+    "priceMax": null,
+    "quoteOnly": false,
+    "variants": []
+  },
+  {
+    "id": 1407,
+    "slug": "motosierra-58cc",
+    "sku": null,
+    "name": "Motosierra 58cc",
+    "brand": null,
+    "category": "maquinaria",
+    "description": "Motosierra Elite de 58cc, con la que podrá realizar trabajos tales como poda, tala y cualquier otro tipo de trabajo forestal. Está provista de uno fuertes silentblocks que absorben cualquier tipo de vibración y equipada con una bomba de autoengrase regulable de cadena. Ahora Motor de 2 tiempos – Cilindrada de 58cc.",
+    "image": "/products/motosierra-58cc.webp",
+    "price": 186.09,
+    "priceMax": null,
+    "quoteOnly": false,
+    "variants": []
+  },
+  {
+    "id": 2249,
+    "slug": "trapeador-automatico-y-balde-deshidratador-automatico",
+    "sku": "2083",
+    "name": "MS033 Trapeador automatico y balde deshidratador automatico",
+    "brand": null,
+    "category": "hogar",
+    "description": null,
+    "image": "/products/trapeador-automatico-y-balde-deshidratador-automatico.webp",
+    "price": null,
+    "priceMax": null,
+    "quoteOnly": true,
+    "variants": []
+  },
+  {
+    "id": 2248,
+    "slug": "trapeador-retractril-giratoria-de-microfibra",
+    "sku": "2079",
+    "name": "MS350 Trapeador retractril giratoria de microfibra.",
+    "brand": null,
+    "category": "hogar",
+    "description": null,
+    "image": "/products/trapeador-retractril-giratoria-de-microfibra.webp",
+    "price": null,
+    "priceMax": null,
+    "quoteOnly": true,
+    "variants": []
+  },
+  {
+    "id": 2250,
+    "slug": "trapeador-con-spray-plana-con-pulverizador",
+    "sku": "2085",
+    "name": "MS380 Trapeador con spray plana con pulverizador",
+    "brand": null,
+    "category": "hogar",
+    "description": null,
+    "image": "/products/trapeador-con-spray-plana-con-pulverizador.webp",
+    "price": null,
+    "priceMax": null,
+    "quoteOnly": true,
+    "variants": []
+  },
+  {
+    "id": 1260,
+    "slug": "navaja-injertar",
+    "sku": null,
+    "name": "Navaja Injertar",
+    "brand": null,
+    "category": "herramientas",
+    "description": "Excelente calidad, mango de goma para mejor agarre y manipulacion.",
+    "image": "/products/navaja-injertar.webp",
+    "price": 6.18,
+    "priceMax": null,
+    "quoteOnly": false,
+    "variants": []
+  },
+  {
+    "id": 1547,
+    "slug": "navaja-multiuso",
+    "sku": null,
+    "name": "Navaja Multiuso",
+    "brand": null,
+    "category": "herramientas",
+    "description": "Herramienta profesional de bolsillo 13 en 1, facilita la manipulación con funciones útiles, producto garantizado por su calidad.",
+    "image": "/products/navaja-multiuso.webp",
+    "price": 8.15,
+    "priceMax": null,
+    "quoteOnly": false,
+    "variants": []
+  },
+  {
+    "id": 1816,
+    "slug": "nivel-de-aluminio-mag-elite",
+    "sku": null,
+    "name": "Nivel de Aluminio Mag Elite",
+    "brand": "Elite",
+    "category": "herramientas",
+    "description": "Nivel de aluminio magnético Elite, liviano de fácil manipulación buena calidad",
+    "image": "/products/nivel-de-aluminio-mag-elite.webp",
+    "price": 3.79,
+    "priceMax": 4.64,
+    "quoteOnly": false,
+    "variants": [
+      {
+        "id": 1817,
+        "label": "16",
+        "sku": null,
+        "price": 3.79
+      },
+      {
+        "id": 1830,
+        "label": "18",
+        "sku": null,
+        "price": 4.28
+      },
+      {
+        "id": 1831,
+        "label": "24",
+        "sku": null,
+        "price": 4.64
+      }
+    ]
+  },
+  {
+    "id": 1712,
+    "slug": "nivel-torpedo-elite",
+    "sku": null,
+    "name": "Nivel Torpedo ELITE",
+    "brand": "Elite",
+    "category": "herramientas",
+    "description": "Nivel ELITE, instrumento de medición para determinar la horizontalidad o verticalidad de un elemento. Son utilizados por carpinteros, albañiles, herreros, trabajadores del aluminio, entre otros. Son ideales para nivelar en espacios reducidos.",
+    "image": "/products/nivel-torpedo-elite.webp",
+    "price": 1.52,
+    "priceMax": null,
+    "quoteOnly": false,
+    "variants": []
+  },
+  {
+    "id": 1832,
+    "slug": "orejeras-anti-ruido",
+    "sku": null,
+    "name": "Orejeras-Anti Ruido",
+    "brand": null,
+    "category": "seguridad",
+    "description": "Orejeras marca Elite anti ruido de seguridad, profesionales, practicas de excelente calidad",
+    "image": "/products/orejeras-anti-ruido.webp",
+    "price": 5.06,
+    "priceMax": null,
+    "quoteOnly": false,
+    "variants": []
+  },
+  {
+    "id": 1888,
+    "slug": "pala-carbonera-elite",
+    "sku": null,
+    "name": "Pala carbonera Elite",
+    "brand": "Elite",
+    "category": "agricola-jardin",
+    "description": "Pala con hoja extragrande y liviana, para un mejor rendimiento, fabricada con acero al carbón templado. Perfecta para actividades de agricultura, jardinería y construcción.",
+    "image": "/products/pala-carbonera-elite.webp",
+    "price": 12.55,
+    "priceMax": null,
+    "quoteOnly": false,
+    "variants": []
+  },
+  {
+    "id": 1436,
+    "slug": "pala-cuadrada",
+    "sku": null,
+    "name": "Pala Cuadrada",
+    "brand": null,
+    "category": "agricola-jardin",
+    "description": "Posee un cabo largo y libre de manillas o mangos, lo que le brinda más versatilidad y se adapta a las necesidades de cada situación. Este cabo es de alta densidad y posee terminación suave que no daña la mano.",
+    "image": "/products/pala-cuadrada.webp",
+    "price": 8.29,
+    "priceMax": null,
+    "quoteOnly": false,
+    "variants": []
+  },
+  {
+    "id": 1438,
+    "slug": "pala-excavadora",
+    "sku": null,
+    "name": "Pala Excavadora",
+    "brand": null,
+    "category": "agricola-jardin",
+    "description": "Para hacer hoyos y agujeros, con mangos metálicos. Se emplea para hacer pozas para enterrar posteriormente postes o estacas, y también para plantar árboles.",
+    "image": "/products/pala-excavadora.webp",
+    "price": 18.61,
+    "priceMax": null,
+    "quoteOnly": false,
+    "variants": []
+  },
+  {
+    "id": 1833,
+    "slug": "pala-jardinera",
+    "sku": null,
+    "name": "Pala Jardinera",
+    "brand": null,
+    "category": "agricola-jardin",
+    "description": "Pala Jardinera marca Elite mango de madera",
+    "image": "/products/pala-jardinera.webp",
+    "price": 9.11,
+    "priceMax": null,
+    "quoteOnly": false,
+    "variants": []
+  },
+  {
+    "id": 1889,
+    "slug": "pala-kids-puntona-elite",
+    "sku": null,
+    "name": "Pala kids puntona Elite",
+    "brand": "Elite",
+    "category": "agricola-jardin",
+    "description": "Pala con cabeza puntona fabricada en acero al carbón y mango de madera",
+    "image": "/products/pala-kids-puntona-elite.webp",
+    "price": 4.63,
+    "priceMax": null,
+    "quoteOnly": false,
+    "variants": []
+  },
+  {
+    "id": 1437,
+    "slug": "pala-redonda",
+    "sku": null,
+    "name": "Pala Redonda",
+    "brand": null,
+    "category": "agricola-jardin",
+    "description": "Posee un cabo largo y libre de manillas o mangos, lo que le brinda más versatilidad y se adapta a las necesidades de cada situación. Este cabo es de alta densidad y posee terminación suave que no daña la mano.",
+    "image": "/products/pala-redonda.webp",
+    "price": 8.29,
+    "priceMax": null,
+    "quoteOnly": false,
+    "variants": []
+  },
+  {
+    "id": 1834,
+    "slug": "pela-cable-multiuso-profesional",
+    "sku": null,
+    "name": "Pela Cable Multiuso Profesional",
+    "brand": null,
+    "category": "herramientas",
+    "description": "Pela Cable Multiuso Profesional marca Elite varios usos, en especial la precisión para pelar el cableado eléctrico sin que la fibra interna sufra daño al realizar la incisión",
+    "image": "/products/pela-cable-multiuso-profesional.webp",
+    "price": 8.5,
+    "priceMax": null,
+    "quoteOnly": false,
+    "variants": []
+  },
+  {
+    "id": 1996,
+    "slug": "pie-de-amigo",
+    "sku": null,
+    "name": "Pie de amigo",
+    "brand": null,
+    "category": "ferreteria",
+    "description": "Pares de pies de amigo para repisas.",
+    "image": "/products/pie-de-amigo.webp",
+    "price": 0.42,
+    "priceMax": 1.27,
+    "quoteOnly": false,
+    "variants": [
+      {
+        "id": 2033,
+        "label": "Blanco · 4 x 5",
+        "sku": null,
+        "price": 0.42
+      },
+      {
+        "id": 2031,
+        "label": "Blanco · 5 x 6",
+        "sku": null,
+        "price": 0.58
+      },
+      {
+        "id": 2029,
+        "label": "Blanco · 6 x 8",
+        "sku": null,
+        "price": 0.58
+      },
+      {
+        "id": 2027,
+        "label": "Blanco · 8 x 10",
+        "sku": null,
+        "price": 0.82
+      },
+      {
+        "id": 2000,
+        "label": "Blanco · 10 x 12",
+        "sku": null,
+        "price": 1.09
+      },
+      {
+        "id": 1998,
+        "label": "Blanco · 12 x 14",
+        "sku": null,
+        "price": 1.27
+      },
+      {
+        "id": 2032,
+        "label": "Gris · 4 x 5",
+        "sku": null,
+        "price": 0.42
+      },
+      {
+        "id": 2030,
+        "label": "Gris · 5 x 6",
+        "sku": null,
+        "price": 0.58
+      },
+      {
+        "id": 2028,
+        "label": "Gris · 6 x 8",
+        "sku": null,
+        "price": 0.58
+      },
+      {
+        "id": 2001,
+        "label": "Gris · 8 x 10",
+        "sku": null,
+        "price": 0.82
+      },
+      {
+        "id": 1999,
+        "label": "Gris · 10 x 12",
+        "sku": null,
+        "price": 1.09
+      },
+      {
+        "id": 1997,
+        "label": "Gris · 12 x 14",
+        "sku": null,
+        "price": 1.27
+      }
+    ]
+  },
+  {
+    "id": 1355,
+    "slug": "pinzas",
+    "sku": null,
+    "name": "Pinzas",
+    "brand": null,
+    "category": "herramientas",
+    "description": null,
+    "image": "/products/pinzas.webp",
+    "price": 1.97,
+    "priceMax": 3.3,
+    "quoteOnly": false,
+    "variants": [
+      {
+        "id": 1360,
+        "label": "Doblada · 6″",
+        "sku": null,
+        "price": 2.46
+      },
+      {
+        "id": 1858,
+        "label": "Larga · 4,5″",
+        "sku": null,
+        "price": 1.97
+      },
+      {
+        "id": 1358,
+        "label": "Larga · 6″",
+        "sku": null,
+        "price": 2.41
+      },
+      {
+        "id": 1357,
+        "label": "Larga · 8″",
+        "sku": null,
+        "price": 3.3
+      },
+      {
+        "id": 1859,
+        "label": "Redonda · 4,5″",
+        "sku": null,
+        "price": 1.97
+      }
+    ]
+  },
+  {
+    "id": 1842,
+    "slug": "pistola-de-gravedad-400cc-elite",
+    "sku": null,
+    "name": "Pistola de Gravedad 400cc ELITE",
+    "brand": "Elite",
+    "category": "pintura",
+    "description": "Pistola de Gravedad de 400 cc marca ELITE, para uso profesional en la aplicación de productos de diferente densidad y viscosidad como poliuretanos, lacas catalizadas, pegamentos, esmaltes, laca automotriz, etc.",
+    "image": "/products/pistola-de-gravedad-400cc-elite.webp",
+    "price": 9.01,
+    "priceMax": 10.76,
+    "quoteOnly": false,
+    "variants": [
+      {
+        "id": 1927,
+        "label": "400 cc",
+        "sku": null,
+        "price": 9.01
+      },
+      {
+        "id": 1928,
+        "label": "600 cc",
+        "sku": null,
+        "price": 10.76
+      }
+    ]
+  },
+  {
+    "id": 1349,
+    "slug": "pistola-de-jardin-8-posiciones",
+    "sku": null,
+    "name": "Pistola de Jardín 8 Posiciones",
+    "brand": null,
+    "category": "agricola-jardin",
+    "description": "Riego o limpieza Material: Plástico de alta resistencia con empuñadura en goma termoplástica Caudal ajustable Gatillo plástico con bloqueo.",
+    "image": "/products/pistola-de-jardin-8-posiciones.webp",
+    "price": 3.16,
+    "priceMax": null,
+    "quoteOnly": false,
+    "variants": []
+  },
+  {
+    "id": 1527,
+    "slug": "pistola-de-silicon-electrica-elite",
+    "sku": null,
+    "name": "Pistola de Silicon Eléctrica Elite",
+    "brand": "Elite",
+    "category": "herramientas",
+    "description": "Para reparaciones generales, carpintería, pasatiempos y artesanías",
+    "image": "/products/pistola-de-silicon-electrica-elite.webp",
+    "price": 3.35,
+    "priceMax": 5.09,
+    "quoteOnly": false,
+    "variants": [
+      {
+        "id": 1533,
+        "label": "15W",
+        "sku": null,
+        "price": 3.35
+      },
+      {
+        "id": 1534,
+        "label": "40W",
+        "sku": null,
+        "price": 5.09
+      }
+    ]
+  },
+  {
+    "id": 1544,
+    "slug": "pistola-de-silicon-profesional-elite",
+    "sku": null,
+    "name": "Pistola de Silicon profesional Elite",
+    "brand": "Elite",
+    "category": "herramientas",
+    "description": "Para reparaciones generales",
+    "image": "/products/pistola-de-silicon-profesional-elite.webp",
+    "price": 5.01,
+    "priceMax": null,
+    "quoteOnly": false,
+    "variants": []
+  },
+  {
+    "id": 1841,
+    "slug": "pistola-elite-para-inflar-llantas",
+    "sku": null,
+    "name": "Pistola ELITE para Inflar LLantas",
+    "brand": "Elite",
+    "category": "automotriz",
+    "description": "Pistola para Inflar Llantas",
+    "image": "/products/pistola-elite-para-inflar-llantas.webp",
+    "price": 6.08,
+    "priceMax": null,
+    "quoteOnly": false,
+    "variants": []
+  },
+  {
+    "id": 1348,
+    "slug": "pistola-pulverizadora",
+    "sku": null,
+    "name": "Pistola Pulverizadora",
+    "brand": null,
+    "category": "agricola-jardin",
+    "description": "Pistola pulverizadora para regar jardines y superficies de pequeño y mediano tamaño. Tanto si está regando plantas útiles, plantas ornamentales o plantas de maceta, o está limpiando muebles y equipos para el jardín, el asa ergonómicamente adaptada de la pistola le permite utilizarla cómodamente con una sola mano y garantiza que los trabajos prolongados también se superen con facilidad. Además, la lanza de riego ofrece otras convincentes ventajas, como, por ejemplo, el ajuste del sistema de pulverización en función de las necesidades, desde chorro concentrado hasta neblina de pulverización, así como 3 niveles de regulación del volumen de agua. La pistola cuenta con un práctico gancho para poder colgarla. Aparte de la gran facilidad de uso y su funcionamiento óptimo, la pistola de jardín destaca también por su atractivo diseño.",
+    "image": "/products/pistola-pulverizadora.webp",
+    "price": 2.89,
+    "priceMax": null,
+    "quoteOnly": false,
+    "variants": []
+  },
+  {
+    "id": 1347,
+    "slug": "playos",
+    "sku": null,
+    "name": "Playos",
+    "brand": null,
+    "category": "herramientas",
+    "description": "Mango cubierto con vinil antideslizante. Diseño de nariz larga y angosta para trabajos en lugares estrechos o espacios reducidos",
+    "image": "/products/playos.webp",
+    "price": 3.72,
+    "priceMax": 6.13,
+    "quoteOnly": false,
+    "variants": [
+      {
+        "id": 1873,
+        "label": "Articulado · 12″",
+        "sku": null,
+        "price": 5.66
+      },
+      {
+        "id": 1352,
+        "label": "De Presión · 10″",
+        "sku": null,
+        "price": 6.13
+      },
+      {
+        "id": 1351,
+        "label": "Dos Posiciones · 8″",
+        "sku": null,
+        "price": 3.72
+      }
+    ]
+  },
+  {
+    "id": 1876,
+    "slug": "podon-de-cacao-gavilan",
+    "sku": null,
+    "name": "Podon de Cacao / Gavilan",
+    "brand": "Gavilan",
+    "category": "agricola-jardin",
+    "description": "Podadora para cacao hecha de acero de alta calidad, sin mango Gavilan.",
+    "image": "/products/podon-de-cacao-gavilan.webp",
+    "price": 3.3,
+    "priceMax": null,
+    "quoteOnly": false,
+    "variants": []
+  },
+  {
+    "id": 1715,
+    "slug": "porta-electrodo-elite",
+    "sku": null,
+    "name": "Porta Electrodo ELITE",
+    "brand": "Elite",
+    "category": "herramientas",
+    "description": "Porta Electrodo 500 Amp Ideal para trabajo continuo con electrodos de gran diámetro y alta intensidad de corriente.",
+    "image": "/products/porta-electrodo-elite.webp",
+    "price": 4.57,
+    "priceMax": null,
+    "quoteOnly": false,
+    "variants": []
+  },
+  {
+    "id": 1840,
+    "slug": "pulverizadora-elite-con-tanque",
+    "sku": null,
+    "name": "Pulverizadora ELITE con Tanque",
+    "brand": "Elite",
+    "category": "pintura",
+    "description": "Pistola Pulverizadora con tanque, marca ELITE, ideal para acabados con texturas, permiten eliminar las imperfecciones de una superficie",
+    "image": "/products/pulverizadora-elite-con-tanque.webp",
+    "price": 6.68,
+    "priceMax": null,
+    "quoteOnly": false,
+    "variants": []
+  },
+  {
+    "id": 1266,
+    "slug": "puntas",
+    "sku": null,
+    "name": "Puntas",
+    "brand": null,
+    "category": "herramientas",
+    "description": "Ideal para trabajos de demolición. Indicado para utilizar en mampostería, piedra, ladrillos y hormigón.",
+    "image": "/products/puntas.webp",
+    "price": 2.51,
+    "priceMax": 3.91,
+    "quoteOnly": false,
+    "variants": [
+      {
+        "id": 1267,
+        "label": "3/4×8",
+        "sku": null,
+        "price": 2.51
+      },
+      {
+        "id": 1268,
+        "label": "3/4×10",
+        "sku": null,
+        "price": 2.95
+      },
+      {
+        "id": 1269,
+        "label": "3/4×12",
+        "sku": null,
+        "price": 3.52
+      },
+      {
+        "id": 1270,
+        "label": "3/4×14",
+        "sku": null,
+        "price": 3.91
+      }
+    ]
+  },
+  {
+    "id": 1350,
+    "slug": "rastrillo-c-mago",
+    "sku": null,
+    "name": "Rastrillo c/mago",
+    "brand": null,
+    "category": "agricola-jardin",
+    "description": "El rastrillo tiene un papel importante en la preparación del suelo. Es una herramienta perfecta para arar y limpiar la tierra y para retirar residuos. Robusto y resistente, es ideal para cualquier tipo de terreno. Por su tamaño y por ser liviano se adapta a las más diversas actividades de agricultura, jardinería y construcción civil.",
+    "image": "/products/rastrillo-c-mago.webp",
+    "price": 4.17,
+    "priceMax": 4.36,
+    "quoteOnly": false,
+    "variants": [
+      {
+        "id": 1353,
+        "label": "12",
+        "sku": null,
+        "price": 4.17
+      },
+      {
+        "id": 1354,
+        "label": "14",
+        "sku": null,
+        "price": 4.36
+      }
+    ]
+  },
+  {
+    "id": 1857,
+    "slug": "recogedor-de-frutas-elite",
+    "sku": null,
+    "name": "Recogedor de Frutas Elite",
+    "brand": "Elite",
+    "category": "agricola-jardin",
+    "description": "El recogedor de frutas està diseñado con puntas en forma de dedos para cuidadosamente recolectar las frutas de los àrboles o arbustos.",
+    "image": "/products/recogedor-de-frutas-elite.webp",
+    "price": 3.35,
+    "priceMax": null,
+    "quoteOnly": false,
+    "variants": []
+  },
+  {
+    "id": 1405,
+    "slug": "repuesto-de-estilete-cuchillas",
+    "sku": null,
+    "name": "Repuesto de Estilete (Cuchillas)",
+    "brand": null,
+    "category": "herramientas",
+    "description": "Repuesto de cuchillas para estilete, contienen 10 unidades",
+    "image": "/products/repuesto-de-estilete-cuchillas.webp",
+    "price": 1.08,
+    "priceMax": null,
+    "quoteOnly": false,
+    "variants": []
+  },
+  {
+    "id": 1526,
+    "slug": "repuesto-rodillo-felpa",
+    "sku": null,
+    "name": "Repuesto Rodillo Felpa",
+    "brand": null,
+    "category": "pintura",
+    "description": "Repuesto rodillo de felpa Elite. Para terminaciones lisas libre de Rayones para paredes, techos y molduras.",
+    "image": "/products/repuesto-rodillo-felpa.webp",
+    "price": 0.73,
+    "priceMax": 0.96,
+    "quoteOnly": false,
+    "variants": [
+      {
+        "id": 1535,
+        "label": "7",
+        "sku": null,
+        "price": 0.73
+      },
+      {
+        "id": 1543,
+        "label": "9",
+        "sku": null,
+        "price": 0.96
+      }
+    ]
+  },
+  {
+    "id": 1382,
+    "slug": "rodillo-esponja-9",
+    "sku": null,
+    "name": "Rodillo Esponja 9″",
+    "brand": null,
+    "category": "pintura",
+    "description": null,
+    "image": "/products/rodillo-esponja-9.webp",
+    "price": 2.27,
+    "priceMax": null,
+    "quoteOnly": false,
+    "variants": []
+  },
+  {
+    "id": 1494,
+    "slug": "rodillo-felpa-elite",
+    "sku": null,
+    "name": "Rodillo Felpa ELITE",
+    "brand": "Elite",
+    "category": "pintura",
+    "description": "Ideal para pinturas en vinilo a base de agua, de fácil uso y lavado. Material felpa uso, sobre todo tipo de superficie. Mango removible",
+    "image": "/products/rodillo-felpa-elite.webp",
+    "price": 0.87,
+    "priceMax": 2.36,
+    "quoteOnly": false,
+    "variants": [
+      {
+        "id": 1564,
+        "label": "2",
+        "sku": null,
+        "price": 0.87
+      },
+      {
+        "id": 1495,
+        "label": "4",
+        "sku": null,
+        "price": 2.02
+      },
+      {
+        "id": 1496,
+        "label": "7",
+        "sku": null,
+        "price": 2.11
+      },
+      {
+        "id": 1497,
+        "label": "9",
+        "sku": null,
+        "price": 2.36
+      }
+    ]
+  },
+  {
+    "id": 1561,
+    "slug": "serrucho-de-podar",
+    "sku": null,
+    "name": "Serrucho de Podar",
+    "brand": null,
+    "category": "agricola-jardin",
+    "description": "El serrucho de podar elaborado con mango de plástico resistente y sierra de acero inoxidable, diseñado para lograr cortes en ramas gruesa y troncos, fácil y cómodo al momento de manipular para asegurar resultados exactos de los cortes.",
+    "image": "/products/serrucho-de-podar.webp",
+    "price": 5.38,
+    "priceMax": null,
+    "quoteOnly": false,
+    "variants": []
+  },
+  {
+    "id": 1563,
+    "slug": "serrucho-de-podar-tipo-navaja-de-16",
+    "sku": null,
+    "name": "Serrucho de Podar tipo Navaja de 16″",
+    "brand": null,
+    "category": "agricola-jardin",
+    "description": "Serrucho de Podar tipo Navaja marca ELITE, elaborado con materiales de calidad, mango de plástico, sierra de acero inoxidable y cierre de seguridad para extender y cerrar con mayor comodidad, herramienta para ser utilizada usualmente para trabajos sencillo o domésticos.",
+    "image": "/products/serrucho-de-podar-tipo-navaja-de-16.webp",
+    "price": 3.88,
+    "priceMax": null,
+    "quoteOnly": false,
+    "variants": []
+  },
+  {
+    "id": 1562,
+    "slug": "serrucho-para-podar-profesional-con-gancho-21",
+    "sku": null,
+    "name": "Serrucho Para Podar Profesional con Gancho 21″",
+    "brand": null,
+    "category": "agricola-jardin",
+    "description": "Serrucho para podar con gancho 21″ marca ELITE usado para cortes de ramas altas, tipo profesional mando de plástico y sierra de acero inoxidable de alta calidad",
+    "image": "/products/serrucho-para-podar-profesional-con-gancho-21.webp",
+    "price": 5.13,
+    "priceMax": null,
+    "quoteOnly": false,
+    "variants": []
+  },
+  {
+    "id": 1924,
+    "slug": "set-de-ducha",
+    "sku": null,
+    "name": "Set de ducha",
+    "brand": null,
+    "category": "hogar",
+    "description": "Set de ducha con hidromasaje, con ducha en cascada, chorro modo lluvia, inyectores laterales a diferentes alturas para un masaje corporal integral.",
+    "image": "/products/set-de-ducha.webp",
+    "price": 229.59,
+    "priceMax": null,
+    "quoteOnly": false,
+    "variants": []
+  },
+  {
+    "id": 1565,
+    "slug": "set-llaves-hexagonales-8-piezas",
+    "sku": null,
+    "name": "Set Llaves Hexagonales (8 Piezas)",
+    "brand": null,
+    "category": "herramientas",
+    "description": "Llaves hexagonales milimétricas marca ELITE 8 piezas desde 1.5 hasta 8 mm tipo navaja, para asegurar el mantenimiento y resguardo de las mismas",
+    "image": "/products/set-llaves-hexagonales-8-piezas.webp",
+    "price": 2.74,
+    "priceMax": null,
+    "quoteOnly": false,
+    "variants": []
+  },
+  {
+    "id": 1881,
+    "slug": "tacos-fisher",
+    "sku": null,
+    "name": "TACOS FISHER",
+    "brand": "Fisher",
+    "category": "ferreteria",
+    "description": "Fundas de 100 unidades. Fijación segura y eficiente para concreto, madera y superficies rugosas.",
+    "image": "/products/tacos-fisher.webp",
+    "price": 0.6,
+    "priceMax": 1.48,
+    "quoteOnly": false,
+    "variants": [
+      {
+        "id": 1884,
+        "label": "#5",
+        "sku": null,
+        "price": 0.6
+      },
+      {
+        "id": 1883,
+        "label": "#6",
+        "sku": null,
+        "price": 0.95
+      },
+      {
+        "id": 1882,
+        "label": "#8",
+        "sku": null,
+        "price": 1.48
+      }
+    ]
+  },
+  {
+    "id": 2255,
+    "slug": "tanque-de-gasolina-10-litros",
+    "sku": "2125",
+    "name": "Tanque de gasolina 10 litros",
+    "brand": null,
+    "category": "automotriz",
+    "description": null,
+    "image": "/products/tanque-de-gasolina-10-litros.webp",
+    "price": null,
+    "priceMax": null,
+    "quoteOnly": true,
+    "variants": []
+  },
+  {
+    "id": 2256,
+    "slug": "tanque-de-gasolina-20-litros",
+    "sku": "2126",
+    "name": "Tanque de gasolina 20 litros",
+    "brand": null,
+    "category": "automotriz",
+    "description": null,
+    "image": "/products/tanque-de-gasolina-20-litros.webp",
+    "price": null,
+    "priceMax": null,
+    "quoteOnly": true,
+    "variants": []
+  },
+  {
+    "id": 2254,
+    "slug": "tanque-de-gasolina-5-litros",
+    "sku": "2124",
+    "name": "Tanque de gasolina 5 litros",
+    "brand": null,
+    "category": "automotriz",
+    "description": null,
+    "image": "/products/tanque-de-gasolina-5-litros.webp",
+    "price": null,
+    "priceMax": null,
+    "quoteOnly": true,
+    "variants": []
+  },
+  {
+    "id": 1843,
+    "slug": "tarraja-1-2-cuadrada",
+    "sku": null,
+    "name": "Tarraja 1/2 Cuadrada",
+    "brand": null,
+    "category": "herramientas",
+    "description": "Tarraja 1/2 tipo cuadrada, A 1-1/4 – 4 pzs Caja plástica Nro 112 Ev",
+    "image": "/products/tarraja-1-2-cuadrada.webp",
+    "price": 31.76,
+    "priceMax": null,
+    "quoteOnly": false,
+    "variants": []
+  },
+  {
+    "id": 1844,
+    "slug": "tarraja-1-2-redonda",
+    "sku": null,
+    "name": "Tarraja 1/2 Redonda",
+    "brand": null,
+    "category": "herramientas",
+    "description": "Tarraja 1/2 – A – 1 – 1/4 – 4 Pzs Nro 62 Ev",
+    "image": "/products/tarraja-1-2-redonda.webp",
+    "price": 28.36,
+    "priceMax": null,
+    "quoteOnly": false,
+    "variants": []
+  },
+  {
+    "id": 1926,
+    "slug": "tarraja-redonda",
+    "sku": null,
+    "name": "Tarraja Redonda",
+    "brand": null,
+    "category": "ferreteria",
+    "description": "Kit de tarraja 5 piezas 1/2 pulgada – 1.1/4 pulgada, para tuberías y fontanería, incluye maletín para colocación y transporte.",
+    "image": "/products/tarraja-redonda.webp",
+    "price": 33.99,
+    "priceMax": null,
+    "quoteOnly": false,
+    "variants": []
+  },
+  {
+    "id": 1434,
+    "slug": "tijera-de-cesped",
+    "sku": null,
+    "name": "Tijera de césped",
+    "brand": null,
+    "category": "agricola-jardin",
+    "description": "Tijera de césped 10″ Elite, posee hojas de acero, que cortan de manera limpia y precisa, y mangos de madera. La herramienta más indicada para un sistema de corte sesgado.",
+    "image": "/products/tijera-de-cesped.webp",
+    "price": 5.76,
+    "priceMax": 6.42,
+    "quoteOnly": false,
+    "variants": [
+      {
+        "id": 1591,
+        "label": "10″",
+        "sku": null,
+        "price": 5.76
+      },
+      {
+        "id": 1592,
+        "label": "12″",
+        "sku": null,
+        "price": 6.42
+      }
+    ]
+  },
+  {
+    "id": 1988,
+    "slug": "tijera-de-cesped-con-serrucho-elite",
+    "sku": null,
+    "name": "Tijera de césped con serrucho Elite",
+    "brand": "Elite",
+    "category": "agricola-jardin",
+    "description": "Tijera de césped con serrucho de aluminio, con navaja de 12″ y mango ergonómico de caucho.",
+    "image": "/products/tijera-de-cesped-con-serrucho-elite.webp",
+    "price": 15.1,
+    "priceMax": null,
+    "quoteOnly": false,
+    "variants": []
+  },
+  {
+    "id": 1991,
+    "slug": "tijera-de-cesped-de-tres-cuchillas-elite",
+    "sku": null,
+    "name": "Tijera de césped de tres cuchillas Elite",
+    "brand": "Elite",
+    "category": "agricola-jardin",
+    "description": "Tijera de césped de tres cuchillas Elite, cuchillas de 12″, con mango plástico ergonómico.",
+    "image": "/products/tijera-de-cesped-de-tres-cuchillas-elite.webp",
+    "price": 11.71,
+    "priceMax": null,
+    "quoteOnly": false,
+    "variants": []
+  },
+  {
+    "id": 1839,
+    "slug": "tijera-de-cesped-extendible",
+    "sku": null,
+    "name": "Tijera de Cesped Extendible",
+    "brand": null,
+    "category": "agricola-jardin",
+    "description": "Tijera de Cesped 12plg, extendible 30-36-41 cm, resistente, dinámica, manejable",
+    "image": "/products/tijera-de-cesped-extendible.webp",
+    "price": 12.95,
+    "priceMax": null,
+    "quoteOnly": false,
+    "variants": []
+  },
+  {
+    "id": 1431,
+    "slug": "tijera-de-flor-8",
+    "sku": null,
+    "name": "Tijera de Flor 8″",
+    "brand": null,
+    "category": "agricola-jardin",
+    "description": "Tijera de Flor Elite Son de acero inoxidable para cortar tallos de curly, vid, follajes gruesos, especiales para floristería, no deben faltar en tu florería.",
+    "image": "/products/tijera-de-flor-8.webp",
+    "price": 4.01,
+    "priceMax": null,
+    "quoteOnly": false,
+    "variants": []
+  },
+  {
+    "id": 1990,
+    "slug": "tijera-de-flor-reforzada-elite",
+    "sku": null,
+    "name": "Tijera de flor reforzada Elite",
+    "brand": "Elite",
+    "category": "agricola-jardin",
+    "description": "Tijera de flor reforzada Elite, con navaja de titanio de 8″ y con mango de caucho ergonómico.",
+    "image": "/products/tijera-de-flor-reforzada-elite.webp",
+    "price": 10.4,
+    "priceMax": null,
+    "quoteOnly": false,
+    "variants": []
+  },
+  {
+    "id": 1989,
+    "slug": "tijera-de-poda-extensible-elite",
+    "sku": null,
+    "name": "Tijera de poda extensible Elite",
+    "brand": "Elite",
+    "category": "agricola-jardin",
+    "description": "Tijera de poda extensible Elite, con navaja de 12″ y mango ergonómico de caucho.",
+    "image": "/products/tijera-de-poda-extensible-elite.webp",
+    "price": 16.4,
+    "priceMax": null,
+    "quoteOnly": false,
+    "variants": []
+  },
+  {
+    "id": 1432,
+    "slug": "tijera-de-ramas-altas",
+    "sku": null,
+    "name": "Tijera de Ramas Altas",
+    "brand": null,
+    "category": "agricola-jardin",
+    "description": "Con las tijeras de Rama Alta Elite lograra la comodidad de manejo y fuerza de una tijera manual. Esto se resuelve con un sistema de cuerdas (de alta resistencia al desgaste) conectadas a una o varias poleas que multiplican la fuerza de palanca. Una vez en posición, basta tirar de la cuerda para accionar un corte seco, potente y preciso. Cuantas más poleas tiene el mecanismo, menor esfuerzo requiere.",
+    "image": "/products/tijera-de-ramas-altas.webp",
+    "price": 13.24,
+    "priceMax": null,
+    "quoteOnly": false,
+    "variants": []
+  },
+  {
+    "id": 2246,
+    "slug": "tijera-incolma-para-cocina-m-pla-8-5",
+    "sku": "2055",
+    "name": "Tijera Incolma para cocina M/Pla 8.5",
+    "brand": "Incolma",
+    "category": "hogar",
+    "description": null,
+    "image": "/products/tijera-incolma-para-cocina-m-pla-8-5.webp",
+    "price": null,
+    "priceMax": null,
+    "quoteOnly": true,
+    "variants": []
+  },
+  {
+    "id": 1433,
+    "slug": "tijera-telescopica-elite",
+    "sku": null,
+    "name": "Tijera Telescopica ELITE",
+    "brand": "Elite",
+    "category": "agricola-jardin",
+    "description": "Tijera Telescópica Elite para realizar tus trabajos de jardinería con total precisión. Con mango extensible para realizar cortes en árboles o plantas de gran altura. Material, Aluminio y plástico.",
+    "image": "/products/tijera-telescopica-elite.webp",
+    "price": 16.93,
+    "priceMax": 17.42,
+    "quoteOnly": false,
+    "variants": [
+      {
+        "id": 1646,
+        "label": "Curva",
+        "sku": null,
+        "price": 17.42
+      },
+      {
+        "id": 1645,
+        "label": "Recta",
+        "sku": null,
+        "price": 16.93
+      }
+    ]
+  },
+  {
+    "id": 1835,
+    "slug": "tijeras-de-aviacion-crv-elite",
+    "sku": null,
+    "name": "Tijeras de Aviación CRV ELITE",
+    "brand": "Elite",
+    "category": "herramientas",
+    "description": "Tijeras de aviación, recta, derecha e izquierda, mango de goma ergonómico, de acero, múltiples uso",
+    "image": "/products/tijeras-de-aviacion-crv-elite.webp",
+    "price": 4.29,
+    "priceMax": null,
+    "quoteOnly": false,
+    "variants": [
+      {
+        "id": 1838,
+        "label": "Derecha",
+        "sku": null,
+        "price": 4.29
+      },
+      {
+        "id": 1837,
+        "label": "Izquierda",
+        "sku": null,
+        "price": 4.29
+      },
+      {
+        "id": 1836,
+        "label": "Recta",
+        "sku": null,
+        "price": 4.29
+      }
+    ]
+  },
+  {
+    "id": 1324,
+    "slug": "tijeras-de-tool",
+    "sku": null,
+    "name": "Tijeras de Tool",
+    "brand": null,
+    "category": "herramientas",
+    "description": "Acabado forjado, manija de empuje doble. Ideal para cortes sencillos y precisos.",
+    "image": "/products/tijeras-de-tool.webp",
+    "price": 4.7,
+    "priceMax": 6.78,
+    "quoteOnly": false,
+    "variants": [
+      {
+        "id": 1338,
+        "label": "8″",
+        "sku": null,
+        "price": 4.7
+      },
+      {
+        "id": 1337,
+        "label": "10″",
+        "sku": null,
+        "price": 5.63
+      },
+      {
+        "id": 1435,
+        "label": "12″",
+        "sku": null,
+        "price": 6.78
+      }
+    ]
+  },
+  {
+    "id": 1845,
+    "slug": "tubo-extension-de-aluminio-para-serrucho-3mts",
+    "sku": null,
+    "name": "Tubo Extensión de Aluminio Para Serrucho 3mts",
+    "brand": null,
+    "category": "agricola-jardin",
+    "description": "Tubo de extensión de aluminio para serrucho de podar 3 mts",
+    "image": "/products/tubo-extension-de-aluminio-para-serrucho-3mts.webp",
+    "price": 12.48,
+    "priceMax": null,
+    "quoteOnly": false,
+    "variants": []
+  },
+  {
+    "id": 1233,
+    "slug": "varilla-aluminio",
+    "sku": null,
+    "name": "Varilla aluminio",
+    "brand": null,
+    "category": "agricola-jardin",
+    "description": null,
+    "image": "/products/varilla-aluminio.webp",
+    "price": 4.63,
+    "priceMax": null,
+    "quoteOnly": false,
+    "variants": []
+  },
+  {
+    "id": 1232,
+    "slug": "varilla-fibra",
+    "sku": null,
+    "name": "Varilla fibra",
+    "brand": null,
+    "category": "agricola-jardin",
+    "description": null,
+    "image": "/products/varilla-fibra.webp",
+    "price": 1.6,
+    "priceMax": null,
+    "quoteOnly": false,
+    "variants": []
+  },
+  {
+    "id": 1944,
+    "slug": "vidrios-solares",
+    "sku": null,
+    "name": "Vidrios solares",
+    "brand": null,
+    "category": "seguridad",
+    "description": "Los vidrios solares Elite, cuidan la vista del soldador contra las quemaduras causadas por la radiación y las chispas.",
+    "image": "/products/vidrios-solares.webp",
+    "price": 0.08,
+    "priceMax": 0.16,
+    "quoteOnly": false,
+    "variants": [
+      {
+        "id": 1947,
+        "label": "Negro Nro.10",
+        "sku": null,
+        "price": 0.16
+      },
+      {
+        "id": 1946,
+        "label": "Negro Nro.12",
+        "sku": null,
+        "price": 0.16
+      },
+      {
+        "id": 1945,
+        "label": "Transparente Nro.10",
+        "sku": null,
+        "price": 0.08
+      }
+    ]
+  },
+  {
+    "id": 2263,
+    "slug": "yee-elite-de-bronce-p-lavadora",
+    "sku": "2219",
+    "name": "Yee Elite de Bronce P/Lavadora",
+    "brand": "Elite",
+    "category": "ferreteria",
+    "description": null,
+    "image": "/products/yee-elite-de-bronce-p-lavadora.webp",
+    "price": null,
+    "priceMax": null,
+    "quoteOnly": true,
+    "variants": []
+  }
+]
